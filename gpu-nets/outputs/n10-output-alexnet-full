@@ -1,0 +1,46 @@
+[I] Finished parsing idx_cls file in 72484 µs.
+[I] Total network params 60965224
+[I] Network loaded in 1.4503e+06 µs.
+[I] Injecting faults ...
+[I] Injecting in layer 10 at index 17828819 (20162899)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 3.5321e-13 FL  was 0.00151702
+[I] Injecting in layer 10 at index 34049724 (36383804)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -6.47575e-13 FL  was -0.00278131
+[I] Injecting in layer 10 at index 19883487 (22217567)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00170916 FL  was -0.00146502
+[I] Injecting in layer 10 at index 16818428 (19152508)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00493126 FL  was 0.00493125
+[I] Injecting in layer 10 at index 9621342 (11955422)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.07887e-07 FL  was 0.00707046
+[I] Injecting in layer 12 at index 8635900 (48722812)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00125612 FL  was -0.00125612
+[I] Injecting in layer 12 at index 3853002 (43939914)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00424624 FL  was -0.00424815
+[I] Injecting in layer 10 at index 23524840 (25858920)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.000150894 FL  was -0.000150896
+[I] Injecting in layer 10 at index 21813755 (24147835)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000239517 FL  was -0.00383226
+[I] Injecting in layer 10 at index 20678206 (23012286)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00271697 FL  was -0.00271697
+[I] Injection finished in 69 µs.
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/ILSVRC2012_val_00033858.JPEG decoded in 4578 µs.

@@ -1,0 +1,21 @@
+loading labels
+using gpu for inference.
+injecting as fixed-point
+injecting as fixed-point
+q-  a correct predictions:  1.0000 progress:   100.0%
+q-  a correct predictions:  1.0000 progress:   100.0%
+q-  a correct predictions:  1.0000 progress:   100.0%
+q-  a correct predictions:  1.0000 progress:   100.0%
+q-  a correct predictions:  1.0000 progress:   100.0%
+q-  a correct predictions:  1.0000 progress:   100.0%
+q-  a correct predictions:  0.8000 progress:   100.0%
+q-  a correct predictions:  0.7000 progress:   100.0%
+injecting as floating-point
+f-  a correct predictions:  0.8000 progress:   100.0%
+f-  a correct predictions:  0.8000 progress:   100.0%
+f-  a correct predictions:  0.8000 progress:   100.0%
+f-  a correct predictions:  0.2000 progress:   100.0%
+f-  a correct predictions:  0.0000 progress:   100.0%
+f-  a correct predictions:  0.0000 progress:   100.0%
+f-  a correct predictions:  0.0000 progress:   100.0%
+f-  a correct predictions:  0.0000 progress:   100.0%

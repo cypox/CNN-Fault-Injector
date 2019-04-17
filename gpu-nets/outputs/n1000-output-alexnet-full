@@ -1,0 +1,4006 @@
+[I] Finished parsing idx_cls file in 72147 µs.
+[I] Total network params 60965224
+[I] Network loaded in 1.44899e+06 µs.
+[I] Injecting faults ...
+[I] Injecting in layer 10 at index 28367337 (30701417)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00263719 FL  was -0.00263719
+[I] Injecting in layer 14 at index 2627721 (59495945)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.0124599 FL  was -0.012459
+[I] Injecting in layer 10 at index 31145685 (33479765)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000368475 FL  was 0.0058956
+[I] Injecting in layer 10 at index 11167723 (13501803)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00387413 FL  was -0.00387461
+[I] Injecting in layer 14 at index 1251156 (58119380)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00583277 FL  was -0.00583277
+[I] Injecting in layer 14 at index 74277 (56942501)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00548811 FL  was 0.00548906
+[I] Injecting in layer 12 at index 399557 (40486469)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.0204928 FL  was 0.0204932
+[I] Injecting in layer 10 at index 6187837 (8521917)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00398571 FL  was -0.00397045
+[I] Injecting in layer 12 at index 2308155 (42395067)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000294492 FL  was -0.00471188
+[I] Injecting in layer 10 at index 9822456 (12156536)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000241392 FL  was 0.00386227
+[I] Injecting in layer 12 at index 2328160 (42415072)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 1.63892 FL  was 0.00640205
+[I] Injecting in layer 10 at index 25724714 (28058794)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00664088 FL  was -0.00676295
+[I] Injecting in layer 10 at index 6543840 (8877920)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.00681686 FL  was 0.00683212
+[I] Injecting in layer 12 at index 750532 (40837444)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00627401 FL  was -0.00627413
+[I] Injecting in layer 10 at index 29424371 (31758451)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 9.93736e-05 FL  was 0.000114632
+[I] Injecting in layer 4 at index 144001 (486401)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -4.86119e-13 FL  was -0.00208787
+[I] Injecting in layer 10 at index 3311914 (5645994)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00176261 FL  was -0.00182364
+[I] Injecting in layer 10 at index 395455 (2729535)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00736917 FL  was -0.00736923
+[I] Injecting in layer 12 at index 10347412 (50434324)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.806798 FL  was -0.00315155
+[I] Injecting in layer 12 at index 3392803 (43479715)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00124505 FL  was 0.00124505
+[I] Injecting in layer 10 at index 4918605 (7252685)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00391059 FL  was -0.00394111
+[I] Injecting in layer 6 at index 549620 (1777140)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.0165477 FL  was -0.0165457
+[I] Injecting in layer 10 at index 5199376 (7533456)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00575753 FL  was -0.00575777
+[I] Injecting in layer 10 at index 36493169 (38827249)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00305882 FL  was -0.00305882
+[I] Injecting in layer 10 at index 5297210 (7631290)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00915385 FL  was 0.00927592
+[I] Injecting in layer 10 at index 13868188 (16202268)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00336043 FL  was 0.00336042
+[I] Injecting in layer 12 at index 14334323 (54421235)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.76914e+36 FL  was -0.00519902
+[I] Injecting in layer 14 at index 1209268 (58077492)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00685904 FL  was -0.00686095
+[I] Injecting in layer 12 at index 6352174 (46439086)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00882678 FL  was 0.00882678
+[I] Injecting in layer 10 at index 8011980 (10346060)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.0128458 FL  was -0.0128458
+[I] Injecting in layer 10 at index 1180670 (3514750)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.0059914 FL  was 0.00403828
+[I] Injecting in layer 12 at index 12203654 (52290566)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00737261 FL  was 0.0073421
+[I] Injecting in layer 14 at index 245777 (57114001)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0170291 FL  was -0.0170291
+[I] Injecting in layer 10 at index 18550807 (20884887)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00985249 FL  was -0.00789937
+[I] Injecting in layer 12 at index 3762911 (43849823)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.0121143 FL  was -0.0121153
+[I] Injecting in layer 10 at index 3470662 (5804742)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -9.87793e-13 FL  was -0.00424254
+[I] Injecting in layer 12 at index 2769458 (42856370)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.0069744 FL  was 0.0069744
+[I] Injecting in layer 10 at index 35542358 (37876438)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00519376 FL  was 0.00494962
+[I] Injecting in layer 10 at index 35409659 (37743739)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00023419 FL  was 0.00023419
+[I] Injecting in layer 10 at index 9617430 (11951510)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.00372871 FL  was 0.0037249
+[I] Injecting in layer 10 at index 36986553 (39320633)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.000224544 FL  was 0.000216914
+[I] Injecting in layer 10 at index 4720472 (7054552)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -3.22911e-14 FL  was -0.000138689
+[I] Injecting in layer 14 at index 1845809 (58714033)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.010419 FL  was -0.010419
+[I] Injecting in layer 10 at index 5374880 (7708960)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00299756 FL  was -0.00299756
+[I] Injecting in layer 4 at index 671709 (1014109)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 6.58747e-22 FL  was 0.0121517
+[I] Injecting in layer 10 at index 31684513 (34018593)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 4.13186e-08 FL  was 0.00270786
+[I] Injecting in layer 10 at index 12852595 (15186675)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.000184117 FL  was 0.000184117
+[I] Injecting in layer 14 at index 4085795 (60954019)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 3.6242e-12 FL  was 0.0155658
+[I] Injecting in layer 12 at index 12875508 (52962420)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.014548 FL  was -0.014548
+[I] Injecting in layer 10 at index 28182857 (30516937)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.00190156 FL  was 0.00190156
+[I] Injecting in layer 10 at index 21938981 (24273061)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00151184 FL  was -0.00151182
+[I] Injecting in layer 10 at index 9949416 (12283496)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00326016 FL  was -0.00326022
+[I] Injecting in layer 10 at index 14167865 (16501945)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00292701 FL  was 0.00292702
+[I] Injecting in layer 10 at index 26818339 (29152419)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00488335 FL  was 0.00390679
+[I] Injecting in layer 10 at index 36162702 (38496782)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.0015083 FL  was 0.00152356
+[I] Injecting in layer 14 at index 1650067 (58518291)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.0162328 FL  was -0.0081164
+[I] Injecting in layer 12 at index 15469988 (55556900)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.0160536 FL  was 0.0170302
+[I] Injecting in layer 10 at index 6192331 (8526411)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00159252 FL  was -0.00110424
+[I] Injecting in layer 12 at index 2251136 (42338048)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 9.40789e-13 FL  was 0.00404066
+[I] Injecting in layer 10 at index 6792685 (9126765)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 9.17079e+35 FL  was 0.00269505
+[I] Injecting in layer 10 at index 18255505 (20589585)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.00164807 FL  was 0.00115979
+[I] Injecting in layer 10 at index 31846129 (34180209)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00897339 FL  was 0.00897721
+[I] Injecting in layer 12 at index 14701573 (54788485)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0108672 FL  was -0.0108671
+[I] Injecting in layer 10 at index 31076824 (33410904)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.150154 FL  was -0.00938461
+[I] Injecting in layer 12 at index 1254968 (41341880)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000218972 FL  was -0.00350355
+[I] Injecting in layer 10 at index 5632589 (7966669)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.000593706 FL  was -0.000715777
+[I] Injecting in layer 10 at index 23249409 (25583489)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -3.71826e-23 FL  was -0.000685898
+[I] Injecting in layer 12 at index 4290621 (44377533)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.000268112 FL  was 0.000268142
+[I] Injecting in layer 12 at index 16622379 (56709291)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.000586612 FL  was 0.00234645
+[I] Injecting in layer 12 at index 15141783 (55228695)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00176152 FL  was 0.00176146
+[I] Injecting in layer 10 at index 23932962 (26267042)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00131405 FL  was 0.00131404
+[I] Injecting in layer 10 at index 21357344 (23691424)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.0029785 FL  was -0.00298231
+[I] Injecting in layer 12 at index 3601662 (43688574)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00213029 FL  was -0.00237443
+[I] Injecting in layer 14 at index 3595396 (60463620)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.0250549 FL  was 0.0250854
+[I] Injecting in layer 10 at index 32418320 (34752400)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 4.02669e-05 FL  was 0.0103083
+[I] Injecting in layer 12 at index 14625836 (54712748)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00524669 FL  was 0.00524693
+[I] Injecting in layer 12 at index 11683608 (51770520)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00680343 FL  was -0.0068034
+[I] Injecting in layer 10 at index 14118133 (16452213)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00895736 FL  was -0.0089573
+[I] Injecting in layer 12 at index 8309019 (48395931)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.17812e-22 FL  was -0.00217325
+[I] Injecting in layer 10 at index 1678543 (4012623)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00549039 FL  was -0.00573453
+[I] Injecting in layer 10 at index 36790846 (39124926)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 5.64168e-13 FL  was 0.00242308
+[I] Injecting in layer 12 at index 13198192 (53285104)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00180345 FL  was -0.000901723
+[I] Injecting in layer 10 at index 16194569 (18528649)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.0067022 FL  was -0.00670223
+[I] Injecting in layer 10 at index 16092930 (18427010)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -2.74721e-22 FL  was -0.00506771
+[I] Injecting in layer 10 at index 19526446 (21860526)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00326481 FL  was 0.00326481
+[I] Injecting in layer 10 at index 18777870 (21111950)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00116708 FL  was 0.00116711
+[I] Injecting in layer 12 at index 11684524 (51771436)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00406282 FL  was 0.00406288
+[I] Injecting in layer 10 at index 5686983 (8021063)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.787991 FL  was -0.00307809
+[I] Injecting in layer 12 at index 9532683 (49619595)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 2.69821e-09 FL  was 0.00017683
+[I] Injecting in layer 12 at index 5768464 (45855376)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00444636 FL  was 0.00444731
+[I] Injecting in layer 10 at index 13810541 (16144621)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0140305 FL  was -0.0120774
+[I] Injecting in layer 10 at index 1748644 (4082724)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00154571 FL  was 0.0015457
+[I] Injecting in layer 12 at index 13742915 (53829827)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00488279 FL  was -0.00488255
+[I] Injecting in layer 10 at index 22808004 (25142084)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00128006 FL  was -0.00128005
+[I] Injecting in layer 12 at index 16610334 (56697246)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00388141 FL  was -0.00388093
+[I] Injecting in layer 10 at index 26596617 (28930697)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -3.0831e-12 FL  was -0.0132418
+[I] Injecting in layer 10 at index 25099112 (27433192)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00366808 FL  was -0.00366808
+[I] Injecting in layer 10 at index 8864444 (11198524)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00300004 FL  was 0.00300004
+[I] Injecting in layer 12 at index 4160271 (44247183)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.0031287 FL  was -0.00215214
+[I] Injecting in layer 10 at index 30498862 (32832942)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00728494 FL  was -0.00728497
+[I] Injecting in layer 10 at index 12580319 (14914399)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00486575 FL  was 0.00486574
+[I] Injecting in layer 10 at index 37235166 (39569246)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.03928e-08 FL  was 0.000681104
+[I] Injecting in layer 14 at index 777620 (57645844)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0132029 FL  was -0.0132029
+[I] Injecting in layer 10 at index 10479701 (12813781)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.000503809 FL  was 0.000503816
+[I] Injecting in layer 12 at index 1322049 (41408961)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -8.64186e+35 FL  was -0.00253962
+[I] Injecting in layer 12 at index 15919266 (56006178)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.0057824 FL  was 0.00773552
+[I] Injecting in layer 10 at index 21271947 (23606027)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00652978 FL  was -0.00652975
+[I] Injecting in layer 10 at index 34767804 (37101884)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.00109681 FL  was -0.00109491
+[I] Injecting in layer 10 at index 37187335 (39521415)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.0011744 FL  was 0.00117443
+[I] Injecting in layer 10 at index 14294660 (16628740)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00641687 FL  was -0.00739343
+[I] Injecting in layer 10 at index 697756 (3031836)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00807602 FL  was -0.00808365
+[I] Injecting in layer 12 at index 2621857 (42708769)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -3.47636e-12 FL  was -0.0149308
+[I] Injecting in layer 12 at index 13022294 (53109206)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00857325 FL  was -0.00857328
+[I] Injecting in layer 10 at index 32990365 (35324445)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -2.36877e-05 FL  was -1.60583e-05
+[I] Injecting in layer 10 at index 6532715 (8866795)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 2.32853e-13 FL  was 0.0010001
+[I] Injecting in layer 10 at index 11797956 (14132036)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00650675 FL  was -0.00675089
+[I] Injecting in layer 10 at index 31401361 (33735441)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.0052787 FL  was 0.00527918
+[I] Injecting in layer 8 at index 208734 (2100190)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0187337 FL  was -0.0187184
+[I] Injecting in layer 10 at index 10590672 (12924752)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.00261187 FL  was 0.00261187
+[I] Injecting in layer 8 at index 158788 (2050244)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.0125802 FL  was -0.0124581
+[I] Injecting in layer 14 at index 3014098 (59882322)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.0165086 FL  was 0.0165084
+[I] Injecting in layer 10 at index 21186375 (23520455)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00392493 FL  was 0.00490149
+[I] Injecting in layer 10 at index 13743596 (16077676)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.000229302 FL  was 0.000229302
+[I] Injecting in layer 14 at index 1988331 (58856555)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -6.22189e-08 FL  was -0.00407758
+[I] Injecting in layer 10 at index 32165388 (34499468)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00408146 FL  was 0.00204073
+[I] Injecting in layer 10 at index 13852416 (16186496)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.000821495 FL  was 0.000821495
+[I] Injecting in layer 12 at index 6291788 (46378700)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.000502715 FL  was -0.000502715
+[I] Injecting in layer 12 at index 507804 (40594716)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.0058994 FL  was -0.00602147
+[I] Injecting in layer 10 at index 35802447 (38136527)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 1.87933 FL  was 0.00734111
+[I] Injecting in layer 12 at index 7425320 (47512232)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00822183 FL  was -0.00822183
+[I] Injecting in layer 10 at index 6111214 (8445294)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00302754 FL  was -0.00302754
+[I] Injecting in layer 12 at index 3295989 (43382901)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.0172309 FL  was -0.00861545
+[I] Injecting in layer 10 at index 24644631 (26978711)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.000973569 FL  was 0.000973568
+[I] Injecting in layer 14 at index 2027764 (58895988)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.0199172 FL  was 0.0199172
+[I] Injecting in layer 12 at index 6609344 (46696256)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00152502 FL  was 0.0061001
+[I] Injecting in layer 10 at index 17237064 (19571144)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00546478 FL  was -0.00546526
+[I] Injecting in layer 12 at index 4249710 (44336622)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00636173 FL  was 0.00318087
+[I] Injecting in layer 10 at index 24699975 (27034055)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.0132338 FL  was 0.0132348
+[I] Injecting in layer 10 at index 26713827 (29047907)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.000839183 FL  was -0.000839183
+[I] Injecting in layer 12 at index 1260445 (41347357)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00773311 FL  was -0.00773323
+[I] Injecting in layer 10 at index 23410569 (25744649)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00242068 FL  was -0.00290896
+[I] Injecting in layer 10 at index 24078568 (26412648)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.9343e-22 FL  was -0.00356816
+[I] Injecting in layer 12 at index 1676174 (41763086)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00447163 FL  was -0.00447165
+[I] Injecting in layer 10 at index 19945111 (22279191)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 6.16135e-25 FL  was 1.13657e-05
+[I] Injecting in layer 10 at index 4961191 (7295271)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000541516 FL  was -0.00216607
+[I] Injecting in layer 12 at index 12149992 (52236904)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00975933 FL  was -0.0117125
+[I] Injecting in layer 12 at index 2981940 (43068852)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00984618 FL  was -0.00789305
+[I] Injecting in layer 12 at index 4133580 (44220492)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00118085 FL  was 0.00118108
+[I] Injecting in layer 10 at index 3137561 (5471641)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00479583 FL  was -0.00476531
+[I] Injecting in layer 10 at index 32950914 (35284994)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00328552 FL  was -0.00328552
+[I] Injecting in layer 10 at index 26097376 (28431456)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.0517192 FL  was -0.000202028
+[I] Injecting in layer 10 at index 7080331 (9414411)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.000745043 FL  was 0.000745039
+[I] Injecting in layer 10 at index 34648434 (36982514)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.000846959 FL  was 0.000846899
+[I] Injecting in layer 12 at index 4728624 (44815536)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0077798 FL  was -0.00777598
+[I] Injecting in layer 12 at index 7586132 (47673044)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00118354 FL  was 0.00142768
+[I] Injecting in layer 12 at index 14824853 (54911765)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00252164 FL  was -0.00252165
+[I] Injecting in layer 10 at index 5731410 (8065490)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -3.02091e+36 FL  was -0.00887766
+[I] Injecting in layer 14 at index 305978 (57174202)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00803091 FL  was -0.00803091
+[I] Injecting in layer 10 at index 10366443 (12700523)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00458862 FL  was 0.00446655
+[I] Injecting in layer 12 at index 1274438 (41361350)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00405923 FL  was 0.00405923
+[I] Injecting in layer 10 at index 11279482 (13613562)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -2.18997e+36 FL  was -0.00643575
+[I] Injecting in layer 10 at index 6000663 (8334743)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00129084 FL  was 0.00129083
+[I] Injecting in layer 12 at index 13499891 (53586803)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.000788909 FL  was -0.000788909
+[I] Injecting in layer 10 at index 36029058 (38363138)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00238536 FL  was -0.00238727
+[I] Injecting in layer 10 at index 17706379 (20040459)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -1.17681e-12 FL  was -0.00505437
+[I] Injecting in layer 10 at index 34226230 (36560310)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -1.00285e-07 FL  was -0.00657229
+[I] Injecting in layer 10 at index 4239743 (6573823)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.956741 FL  was 0.00373727
+[I] Injecting in layer 10 at index 16838265 (19172345)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.000555805 FL  was -0.000555776
+[I] Injecting in layer 12 at index 14934660 (55021572)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00711704 FL  was 0.00717807
+[I] Injecting in layer 10 at index 18885838 (21219918)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00278291 FL  was -0.0027524
+[I] Injecting in layer 10 at index 12185438 (14519518)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00149352 FL  was 0.001494
+[I] Injecting in layer 10 at index 24446166 (26780246)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00230541 FL  was 0.00229015
+[I] Injecting in layer 10 at index 33191570 (35525650)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.00046222 FL  was -0.00739552
+[I] Injecting in layer 10 at index 28977080 (31311160)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00150485 FL  was 0.0015039
+[I] Injecting in layer 12 at index 1390483 (41477395)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.00469305 FL  was -0.00468542
+[I] Injecting in layer 12 at index 733439 (40820351)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00362477 FL  was 0.00313649
+[I] Injecting in layer 12 at index 4253404 (44340316)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00362989 FL  was -0.00362988
+[I] Injecting in layer 10 at index 7371643 (9705723)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00257932 FL  was 0.00257932
+[I] Injecting in layer 10 at index 11009409 (13343489)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00141868 FL  was -0.00141773
+[I] Injecting in layer 10 at index 19020229 (21354309)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 9.49092e-13 FL  was 0.00407632
+[I] Injecting in layer 12 at index 6964050 (47050962)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.49291e-07 FL  was 0.00978396
+[I] Injecting in layer 12 at index 14367335 (54454247)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.000420384 FL  was 0.000420384
+[I] Injecting in layer 10 at index 13188421 (15522501)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00152626 FL  was 0.00610504
+[I] Injecting in layer 10 at index 6480202 (8814282)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.857707 FL  was -0.00335042
+[I] Injecting in layer 8 at index 91761 (1983217)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00747968 FL  was -0.00747968
+[I] Injecting in layer 10 at index 35273355 (37607435)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.00413757 FL  was 0.00412231
+[I] Injecting in layer 12 at index 5113748 (45200660)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00873333 FL  was 0.00873333
+[I] Injecting in layer 10 at index 9352047 (11686127)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.000974487 FL  was 0.000730347
+[I] Injecting in layer 10 at index 24077602 (26411682)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.0020475 FL  was 0.00205513
+[I] Injecting in layer 10 at index 24550755 (26884835)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 8.75558e-06 FL  was 8.75555e-06
+[I] Injecting in layer 12 at index 916854 (41003766)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.0108388 FL  was 0.0110829
+[I] Injecting in layer 10 at index 18578306 (20912386)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00346272 FL  was -0.00346248
+[I] Injecting in layer 10 at index 26159360 (28493440)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00197916 FL  was -0.00295572
+[I] Injecting in layer 10 at index 31605058 (33939138)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00445543 FL  was -0.00445543
+[I] Injecting in layer 10 at index 15387667 (17721747)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.0161489 FL  was 0.00807444
+[I] Injecting in layer 4 at index 212445 (554845)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.000779981 FL  was 0.000779505
+[I] Injecting in layer 10 at index 36207955 (38542035)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00372302 FL  was -0.00347888
+[I] Injecting in layer 10 at index 27696574 (30030654)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00241838 FL  was -0.00241832
+[I] Injecting in layer 12 at index 181932 (40268844)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00188402 FL  was -0.00753606
+[I] Injecting in layer 12 at index 9855666 (49942578)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0108922 FL  was -0.00893904
+[I] Injecting in layer 12 at index 15091417 (55178329)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.0156649 FL  was 0.0156802
+[I] Injecting in layer 12 at index 4967076 (45053988)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00833993 FL  was 0.0083399
+[I] Injecting in layer 10 at index 13972359 (16306439)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00506569 FL  was -0.00506568
+[I] Injecting in layer 10 at index 15738348 (18072428)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00551213 FL  was -0.00551189
+[I] Injecting in layer 10 at index 9036483 (11370563)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00570804 FL  was 0.00570804
+[I] Injecting in layer 10 at index 19906279 (22240359)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00213866 FL  was -0.00216918
+[I] Injecting in layer 10 at index 21961530 (24295610)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00195142 FL  was -0.00195136
+[I] Injecting in layer 8 at index 195699 (2087155)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00608983 FL  was -0.00608936
+[I] Injecting in layer 10 at index 10471551 (12805631)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00239178 FL  was -0.00239176
+[I] Injecting in layer 10 at index 17625868 (19959948)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.000544675 FL  was 0.000544675
+[I] Injecting in layer 10 at index 14319629 (16653709)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00582578 FL  was -0.00582555
+[I] Injecting in layer 10 at index 4599168 (6933248)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.000256759 FL  was 0.000258667
+[I] Injecting in layer 10 at index 32087382 (34421462)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00529676 FL  was 0.00529676
+[I] Injecting in layer 10 at index 18559361 (20893441)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.000214033 FL  was 0.000214018
+[I] Injecting in layer 4 at index 800407 (1142807)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 8.35424e-08 FL  was 0.00547504
+[I] Injecting in layer 12 at index 15890232 (55977144)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00634088 FL  was -0.00631037
+[I] Injecting in layer 10 at index 20420697 (22754777)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00321942 FL  was -0.00321942
+[I] Injecting in layer 10 at index 5033982 (7368062)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000629988 FL  was -0.00251995
+[I] Injecting in layer 10 at index 6105104 (8439184)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00995706 FL  was -0.0102012
+[I] Injecting in layer 12 at index 14290809 (54377721)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -1.27515e-07 FL  was -0.00835684
+[I] Injecting in layer 12 at index 16610033 (56696945)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.0059434 FL  was -0.00597392
+[I] Injecting in layer 14 at index 1615044 (58483268)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00529892 FL  was -0.00529891
+[I] Injecting in layer 12 at index 5017882 (45104794)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00341682 FL  was -0.00341679
+[I] Injecting in layer 14 at index 2247350 (59115574)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.168056 FL  was 0.0105035
+[I] Injecting in layer 10 at index 5895797 (8229877)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 1.70009 FL  was 0.00664097
+[I] Injecting in layer 12 at index 7248468 (47335380)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00582194 FL  was -0.0058229
+[I] Injecting in layer 14 at index 1619667 (58487891)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0060007 FL  was -0.00599689
+[I] Injecting in layer 12 at index 12590803 (52677715)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.0068356 FL  was 0.0068356
+[I] Injecting in layer 10 at index 14232420 (16566500)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.000651894 FL  was 0.00071293
+[I] Injecting in layer 12 at index 5582300 (45669212)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.000951143 FL  was 0.000951143
+[I] Injecting in layer 10 at index 6441840 (8775920)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.0059171 FL  was -0.005919
+[I] Injecting in layer 12 at index 6541916 (46628828)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000177569 FL  was -0.0028411
+[I] Injecting in layer 10 at index 37310536 (39644616)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00440656 FL  was -0.00440608
+[I] Injecting in layer 14 at index 22881 (56891105)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00104689 FL  was -0.00418755
+[I] Injecting in layer 12 at index 11948852 (52035764)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.0177422 FL  was 0.0182304
+[I] Injecting in layer 12 at index 405019 (40491931)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00256332 FL  was -0.00256141
+[I] Injecting in layer 10 at index 36220763 (38554843)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00125354 FL  was 0.00125354
+[I] Injecting in layer 12 at index 306289 (40393201)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -4.52319e-24 FL  was -8.34381e-05
+[I] Injecting in layer 10 at index 7879479 (10213559)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00502308 FL  was 0.00502308
+[I] Injecting in layer 12 at index 13116310 (53203222)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.000105578 FL  was 9.79484e-05
+[I] Injecting in layer 10 at index 26918153 (29252233)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00337801 FL  was -0.00325594
+[I] Injecting in layer 10 at index 27292135 (29626215)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 1.22439e-12 FL  was 0.00525869
+[I] Injecting in layer 10 at index 16841896 (19175976)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -1.01293e-07 FL  was -0.00663834
+[I] Injecting in layer 12 at index 4931310 (45018222)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00406448 FL  was 0.00406639
+[I] Injecting in layer 10 at index 31610559 (33944639)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.00235664 FL  was 0.00235688
+[I] Injecting in layer 10 at index 10015279 (12349359)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00302612 FL  was 0.00302612
+[I] Injecting in layer 12 at index 2914814 (43001726)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00504487 FL  was -0.00504486
+[I] Injecting in layer 14 at index 3682224 (60550448)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00697123 FL  was 0.0069712
+[I] Injecting in layer 10 at index 22274157 (24608237)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00217647 FL  was 0.00217635
+[I] Injecting in layer 12 at index 2276391 (42363303)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.000245588 FL  was -0.000245574
+[I] Injecting in layer 10 at index 2378204 (4712284)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00707575 FL  was 0.00695368
+[I] Injecting in layer 12 at index 9658543 (49745455)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00386611 FL  was -0.00386611
+[I] Injecting in layer 12 at index 6112266 (46199178)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00333687 FL  was 0.00333681
+[I] Injecting in layer 12 at index 12173820 (52260732)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000311561 FL  was -0.00498497
+[I] Injecting in layer 12 at index 228455 (40315367)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.0100235 FL  was 0.00977934
+[I] Injecting in layer 12 at index 7367645 (47454557)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00825967 FL  was -0.00825967
+[I] Injecting in layer 12 at index 16583581 (56670493)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00130259 FL  was 0.00130164
+[I] Injecting in layer 10 at index 5641580 (7975660)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0019142 FL  was -0.0019142
+[I] Injecting in layer 10 at index 21419368 (23753448)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.382868 FL  was -0.00149558
+[I] Injecting in layer 10 at index 20888025 (23222105)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.000750851 FL  was -0.0015017
+[I] Injecting in layer 12 at index 15227564 (55314476)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00600598 FL  was 0.00600598
+[I] Injecting in layer 10 at index 9717727 (12051807)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.626721 FL  was 0.00244813
+[I] Injecting in layer 10 at index 17549540 (19883620)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.00223326 FL  was 0.00224089
+[I] Injecting in layer 10 at index 29296401 (31630481)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00208225 FL  was -0.00214328
+[I] Injecting in layer 12 at index 624833 (40711745)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00347486 FL  was -0.00347486
+[I] Injecting in layer 12 at index 6382915 (46469827)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0107512 FL  was -0.00879809
+[I] Injecting in layer 10 at index 18883682 (21217762)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.0086191 FL  was -0.00837496
+[I] Injecting in layer 10 at index 11691044 (14025124)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.0011459 FL  was 0.0011459
+[I] Injecting in layer 10 at index 34687794 (37021874)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.000913799 FL  was 0.000909984
+[I] Injecting in layer 10 at index 33128757 (35462837)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00314829 FL  was -0.00314828
+[I] Injecting in layer 10 at index 20083666 (22417746)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00672877 FL  was -0.00672782
+[I] Injecting in layer 14 at index 1669777 (58538001)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00279485 FL  was -0.00279479
+[I] Injecting in layer 10 at index 35733640 (38067720)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.65641e+36 FL  was -0.00486775
+[I] Injecting in layer 10 at index 16969373 (19303453)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00561472 FL  was -0.00561472
+[I] Injecting in layer 12 at index 4754600 (44841512)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.0121511 FL  was 0.0121511
+[I] Injecting in layer 10 at index 28818335 (31152415)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.16489e-22 FL  was -0.00214884
+[I] Injecting in layer 12 at index 10608496 (50695408)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.00880569 FL  was -0.00879043
+[I] Injecting in layer 12 at index 9053215 (49140127)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00441133 FL  was -0.00441133
+[I] Injecting in layer 10 at index 25105558 (27439638)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00690924 FL  was -0.00172731
+[I] Injecting in layer 12 at index 317942 (40404854)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00663219 FL  was 0.00331609
+[I] Injecting in layer 10 at index 30499864 (32833944)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00541457 FL  was 0.00553664
+[I] Injecting in layer 10 at index 22874492 (25208572)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.0104321 FL  was -0.0104302
+[I] Injecting in layer 12 at index 7371796 (47458708)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00668017 FL  was -0.00668017
+[I] Injecting in layer 12 at index 6715703 (46802615)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00729353 FL  was 0.00729353
+[I] Injecting in layer 10 at index 14818632 (17152712)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00409929 FL  was -0.0041031
+[I] Injecting in layer 10 at index 10151680 (12485760)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00522099 FL  was -0.00534306
+[I] Injecting in layer 10 at index 27217512 (29551592)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00168196 FL  was -0.00168196
+[I] Injecting in layer 12 at index 3905754 (43992666)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00692141 FL  was -0.00695193
+[I] Injecting in layer 12 at index 9083672 (49170584)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.000285868 FL  was -0.000285876
+[I] Injecting in layer 12 at index 986728 (41073640)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00176352 FL  was 0.00705408
+[I] Injecting in layer 10 at index 15120759 (17454839)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00187842 FL  was -0.00187844
+[I] Injecting in layer 12 at index 4749109 (44836021)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.0124632 FL  was 0.0124631
+[I] Injecting in layer 10 at index 24729358 (27063438)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00227381 FL  was -0.00227572
+[I] Injecting in layer 10 at index 763939 (3098019)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.00441691 FL  was 0.00392863
+[I] Injecting in layer 12 at index 12729397 (52816309)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00681685 FL  was 0.00681685
+[I] Injecting in layer 10 at index 31953539 (34287619)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.41065e+36 FL  was -0.00414552
+[I] Injecting in layer 12 at index 1923804 (42010716)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00329214 FL  was 0.00658427
+[I] Injecting in layer 12 at index 11248209 (51335121)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00153013 FL  was -0.00612052
+[I] Injecting in layer 10 at index 8028967 (10363047)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.0357055 FL  was -0.00892638
+[I] Injecting in layer 10 at index 22283863 (24617943)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00435531 FL  was 0.00435525
+[I] Injecting in layer 10 at index 28737045 (31071125)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.0006743 FL  was -0.0026972
+[I] Injecting in layer 10 at index 3786913 (6120993)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -2.42785e-22 FL  was -0.0044786
+[I] Injecting in layer 10 at index 31127354 (33461434)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.00949227 FL  was 0.00851571
+[I] Injecting in layer 12 at index 13489085 (53575997)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.505004 FL  was -0.00197267
+[I] Injecting in layer 10 at index 36409668 (38743748)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.84828e-22 FL  was -0.00340947
+[I] Injecting in layer 12 at index 925946 (41012858)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.00544184 FL  was 0.00544184
+[I] Injecting in layer 10 at index 1508741 (3842821)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00364208 FL  was -0.00364202
+[I] Injecting in layer 10 at index 33647914 (35981994)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 3.60638e-08 FL  was 0.00236348
+[I] Injecting in layer 12 at index 4106861 (44193773)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00297558 FL  was -0.00346386
+[I] Injecting in layer 14 at index 1139495 (58007719)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.980861 FL  was -0.00383149
+[I] Injecting in layer 12 at index 15094359 (55181271)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 3.92023e-05 FL  was 0.0100358
+[I] Injecting in layer 10 at index 30994192 (33328272)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00267576 FL  was 0.00267528
+[I] Injecting in layer 10 at index 125385 (2459465)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.0047676 FL  was 0.0047676
+[I] Injecting in layer 12 at index 10943244 (51030156)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00805798 FL  was 0.00805775
+[I] Injecting in layer 12 at index 7082962 (47169874)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -7.70094e-08 FL  was -0.00504689
+[I] Injecting in layer 10 at index 24303383 (26637463)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.0053343 FL  was 0.0053343
+[I] Injecting in layer 10 at index 22050883 (24384963)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00515621 FL  was 0.00515609
+[I] Injecting in layer 10 at index 898381 (3232461)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0014079 FL  was -0.00140885
+[I] Injecting in layer 10 at index 5872004 (8206084)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00361953 FL  was -0.00361929
+[I] Injecting in layer 10 at index 2513079 (4847159)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.0313251 FL  was 0.00783129
+[I] Injecting in layer 12 at index 9303536 (49390448)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.781938 FL  was -0.00305444
+[I] Injecting in layer 10 at index 12447499 (14781579)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00635244 FL  was -0.00634863
+[I] Injecting in layer 12 at index 3255146 (43342058)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00613036 FL  was 0.00613034
+[I] Injecting in layer 10 at index 7139416 (9473496)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.0057371 FL  was 0.00286855
+[I] Injecting in layer 6 at index 249227 (1476747)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.0911468 FL  was -0.0455734
+[I] Injecting in layer 12 at index 8827745 (48914657)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00661004 FL  was 0.00673211
+[I] Injecting in layer 10 at index 8110409 (10444489)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00805788 FL  was -0.00805692
+[I] Injecting in layer 10 at index 2183862 (4517942)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00608167 FL  was -0.00608167
+[I] Injecting in layer 10 at index 28940987 (31275067)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00270772 FL  was -0.00270772
+[I] Injecting in layer 14 at index 2421850 (59290074)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0176981 FL  was -0.0176981
+[I] Injecting in layer 12 at index 2742445 (42829357)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.223031 FL  was -0.0139394
+[I] Injecting in layer 10 at index 5019797 (7353877)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00123306 FL  was -0.00124832
+[I] Injecting in layer 12 at index 3933049 (44019961)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00926349 FL  was -0.00926349
+[I] Injecting in layer 12 at index 10307774 (50394686)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.12954e+35 FL  was -0.000331941
+[I] Injecting in layer 10 at index 37659100 (39993180)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00030504 FL  was 0.000305038
+[I] Injecting in layer 10 at index 22175766 (24509846)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00151166 FL  was -0.00163373
+[I] Injecting in layer 10 at index 10400944 (12735024)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.000756919 FL  was 0.00074166
+[I] Injecting in layer 10 at index 18352369 (20686449)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00238693 FL  was 0.00238693
+[I] Injecting in layer 6 at index 460639 (1688159)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.0180566 FL  was -0.0180556
+[I] Injecting in layer 12 at index 15159161 (55246073)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00178362 FL  was -0.00181414
+[I] Injecting in layer 10 at index 6940240 (9274320)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00101182 FL  was -0.0010117
+[I] Injecting in layer 10 at index 30087229 (32421309)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00442702 FL  was -0.00448805
+[I] Injecting in layer 10 at index 34737516 (37071596)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00246756 FL  was -0.00246756
+[I] Injecting in layer 10 at index 2887067 (5221147)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00270873 FL  was 0.00270873
+[I] Injecting in layer 10 at index 1786429 (4120509)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -2.14688e-22 FL  was -0.00396029
+[I] Injecting in layer 10 at index 8826269 (11160349)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00358819 FL  was 0.00358819
+[I] Injecting in layer 10 at index 26174230 (28508310)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00456579 FL  was -0.00456532
+[I] Injecting in layer 10 at index 37164075 (39498155)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00323176 FL  was 0.000807939
+[I] Injecting in layer 10 at index 13065676 (15399756)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.000899188 FL  was -0.000914446
+[I] Injecting in layer 12 at index 10001374 (50088286)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000279629 FL  was 0.00447406
+[I] Injecting in layer 12 at index 16680936 (56767848)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00656117 FL  was -0.00655927
+[I] Injecting in layer 10 at index 6811229 (9145309)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000692574 FL  was -0.0027703
+[I] Injecting in layer 10 at index 9487830 (11821910)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00118283 FL  was -0.00118664
+[I] Injecting in layer 10 at index 34879034 (37213114)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00168353 FL  was -0.00119525
+[I] Injecting in layer 10 at index 30256008 (32590088)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00550665 FL  was 0.00575079
+[I] Injecting in layer 12 at index 10151672 (50238584)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000312106 FL  was 0.0049937
+[I] Injecting in layer 12 at index 7200941 (47287853)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.000661398 FL  was 0.000660921
+[I] Injecting in layer 12 at index 7795498 (47882410)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.0116456 FL  was -0.0114014
+[I] Injecting in layer 10 at index 28898224 (31232304)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 6.24983e+35 FL  was 0.00183666
+[I] Injecting in layer 10 at index 14740778 (17074858)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00180846 FL  was -0.00156432
+[I] Injecting in layer 12 at index 2861835 (42948747)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00476859 FL  was -0.0023843
+[I] Injecting in layer 12 at index 14814152 (54901064)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00489097 FL  was -0.00501304
+[I] Injecting in layer 10 at index 30714546 (33048626)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00642106 FL  was 0.00642201
+[I] Injecting in layer 12 at index 15531578 (55618490)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.001716 FL  was -0.00171409
+[I] Injecting in layer 10 at index 32625917 (34959997)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00275669 FL  was -0.00275669
+[I] Injecting in layer 10 at index 13140399 (15474479)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0053877 FL  was -0.00441114
+[I] Injecting in layer 10 at index 28638764 (30972844)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00477727 FL  was -0.00575383
+[I] Injecting in layer 10 at index 9564573 (11898653)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.000420946 FL  was 0.000421006
+[I] Injecting in layer 10 at index 24715852 (27049932)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.000912202 FL  was -0.000912194
+[I] Injecting in layer 12 at index 2517105 (42604017)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 8.10206e-13 FL  was 0.00347981
+[I] Injecting in layer 12 at index 13117202 (53204114)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.0018458 FL  was 0.00184574
+[I] Injecting in layer 10 at index 24504317 (26838397)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.0374533 FL  was -0.00936331
+[I] Injecting in layer 10 at index 37537159 (39871239)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00335341 FL  was -0.00335341
+[I] Injecting in layer 12 at index 9133250 (49220162)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.0093806 FL  was -0.00938072
+[I] Injecting in layer 10 at index 37123446 (39457526)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -1.23022e-12 FL  was -0.00528373
+[I] Injecting in layer 10 at index 15755437 (18089517)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000301021 FL  was 0.00481633
+[I] Injecting in layer 10 at index 17530115 (19864195)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00152164 FL  was -0.00176578
+[I] Injecting in layer 10 at index 2197187 (4531267)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0107673 FL  was -0.00881421
+[I] Injecting in layer 10 at index 15723656 (18057736)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00389038 FL  was -0.0034021
+[I] Injecting in layer 14 at index 3390556 (60258780)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -3.64053e+36 FL  was -0.0106986
+[I] Injecting in layer 10 at index 27891197 (30225277)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00485959 FL  was -0.00485863
+[I] Injecting in layer 10 at index 6780243 (9114323)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00344794 FL  was -0.00344794
+[I] Injecting in layer 10 at index 23352936 (25687016)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00401906 FL  was -0.00401906
+[I] Injecting in layer 12 at index 2940741 (43027653)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.00123458 FL  was 0.00123459
+[I] Injecting in layer 12 at index 16337024 (56423936)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.00922866 FL  was 0.00924392
+[I] Injecting in layer 10 at index 35376857 (37710937)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00739658 FL  was -0.00739657
+[I] Injecting in layer 12 at index 2756103 (42843015)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00629919 FL  was -0.00434606
+[I] Injecting in layer 10 at index 11189459 (13523539)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.0072311 FL  was 0.00722347
+[I] Injecting in layer 10 at index 1304806 (3638886)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.0048453 FL  was 0.00484532
+[I] Injecting in layer 10 at index 2151654 (4485734)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00134185 FL  was -0.00146392
+[I] Injecting in layer 12 at index 14285777 (54372689)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00475622 FL  was 0.00451208
+[I] Injecting in layer 12 at index 10749742 (50836654)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.00198773 FL  was 0.00223187
+[I] Injecting in layer 10 at index 4864912 (7198992)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000385333 FL  was 0.00616532
+[I] Injecting in layer 10 at index 36448786 (38782866)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00858776 FL  was 0.00858752
+[I] Injecting in layer 12 at index 764735 (40851647)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.00683372 FL  was -0.00682609
+[I] Injecting in layer 12 at index 10785934 (50872846)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.00697383 FL  was 0.00697384
+[I] Injecting in layer 10 at index 36809569 (39143649)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -1.53993 FL  was -0.00601536
+[I] Injecting in layer 14 at index 740790 (57609014)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -1.60218 FL  was -0.00625851
+[I] Injecting in layer 10 at index 4000035 (6334115)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.0027129 FL  was -0.00283497
+[I] Injecting in layer 12 at index 2814670 (42901582)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00754216 FL  was -0.00754216
+[I] Injecting in layer 10 at index 34602193 (36936273)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00231434 FL  was 0.00231434
+[I] Injecting in layer 10 at index 34420766 (36754846)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000441485 FL  was -0.00706376
+[I] Injecting in layer 10 at index 7196518 (9530598)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00516683 FL  was -0.00516683
+[I] Injecting in layer 10 at index 24528207 (26862287)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00237264 FL  was 0.00237168
+[I] Injecting in layer 10 at index 36021974 (38356054)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -3.93828e-22 FL  was -0.00726485
+[I] Injecting in layer 12 at index 2478177 (42565089)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00521774 FL  was -0.00521768
+[I] Injecting in layer 10 at index 10486768 (12820848)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.010335 FL  was 0.0103655
+[I] Injecting in layer 10 at index 15299484 (17633564)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00107615 FL  was -0.00430462
+[I] Injecting in layer 14 at index 3534600 (60402824)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.0125492 FL  was 0.0125493
+[I] Injecting in layer 10 at index 15540873 (17874953)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00549331 FL  was 0.00274665
+[I] Injecting in layer 10 at index 17492740 (19826820)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00640525 FL  was -0.00640531
+[I] Injecting in layer 10 at index 20665252 (22999332)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00416061 FL  was 0.00416442
+[I] Injecting in layer 12 at index 13982025 (54068937)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00331095 FL  was -0.00331095
+[I] Injecting in layer 12 at index 9048191 (49135103)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 4.14035e-12 FL  was 0.0177827
+[I] Injecting in layer 10 at index 15878062 (18212142)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.000404813 FL  was -0.000404815
+[I] Injecting in layer 12 at index 8408160 (48495072)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.0028202 FL  was 0.00564039
+[I] Injecting in layer 10 at index 34683869 (37017949)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00647891 FL  was 0.00647894
+[I] Injecting in layer 14 at index 3393448 (60261672)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -1.08194e-07 FL  was -0.00709058
+[I] Injecting in layer 14 at index 3994048 (60862272)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000811789 FL  was -0.00324716
+[I] Injecting in layer 12 at index 5930312 (46017224)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.0200231 FL  was 0.0200536
+[I] Injecting in layer 10 at index 27771061 (30105141)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00441986 FL  was 0.0044201
+[I] Injecting in layer 12 at index 2528094 (42615006)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00540501 FL  was -0.00540504
+[I] Injecting in layer 10 at index 30317912 (32651992)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00388004 FL  was 0.003819
+[I] Injecting in layer 10 at index 33210134 (35544214)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00253734 FL  was -0.00253734
+[I] Injecting in layer 12 at index 1912056 (41998968)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -3.63724e-05 FL  was 3.63724e-05
+[I] Injecting in layer 12 at index 4890312 (44977224)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00192416 FL  was -0.00192369
+[I] Injecting in layer 12 at index 7414023 (47500935)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00646352 FL  was -0.00597524
+[I] Injecting in layer 12 at index 6043313 (46130225)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00347403 FL  was -0.00347409
+[I] Injecting in layer 14 at index 3349838 (60218062)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00143872 FL  was 0.00143872
+[I] Injecting in layer 10 at index 24007589 (26341669)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00381376 FL  was -0.0038128
+[I] Injecting in layer 12 at index 11583847 (51670759)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0125157 FL  was -0.0125157
+[I] Injecting in layer 14 at index 2044364 (58912588)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.0129138 FL  was 0.01291
+[I] Injecting in layer 10 at index 22121323 (24455403)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00381663 FL  was -0.00357249
+[I] Injecting in layer 10 at index 10972728 (13306808)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.000127719 FL  was -0.000135349
+[I] Injecting in layer 14 at index 97932 (56966156)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.0195604 FL  was 0.0196825
+[I] Injecting in layer 10 at index 32869858 (35203938)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00550746 FL  was 0.00550746
+[I] Injecting in layer 10 at index 9941009 (12275089)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000637765 FL  was -0.00255106
+[I] Injecting in layer 12 at index 1543536 (41630448)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.000922684 FL  was 0.000930313
+[I] Injecting in layer 10 at index 102178 (2436258)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00250068 FL  was -0.00250066
+[I] Injecting in layer 10 at index 13717369 (16051449)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -2.84677e-05 FL  was -2.84677e-05
+[I] Injecting in layer 12 at index 15840886 (55927798)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00317265 FL  was -0.00317277
+[I] Injecting in layer 10 at index 29260902 (31594982)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0027572 FL  was -0.00275529
+[I] Injecting in layer 12 at index 14252285 (54339197)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00459752 FL  was 0.00459746
+[I] Injecting in layer 10 at index 19768853 (22102933)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.000540064 FL  was -0.000601099
+[I] Injecting in layer 12 at index 10973176 (51060088)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 1.58933 FL  was 0.00620834
+[I] Injecting in layer 12 at index 3568488 (43655400)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.0016622 FL  was 0.00165838
+[I] Injecting in layer 12 at index 8528399 (48615311)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.0128739 FL  was 0.0128739
+[I] Injecting in layer 10 at index 6189804 (8523884)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00785357 FL  was -0.00785166
+[I] Injecting in layer 10 at index 22811689 (25145769)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00589653 FL  was -0.00589652
+[I] Injecting in layer 10 at index 20423054 (22757134)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00615265 FL  was -0.00615263
+[I] Injecting in layer 12 at index 13666196 (53753108)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.0105734 FL  was -0.0105734
+[I] Injecting in layer 10 at index 31217887 (33551967)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 2.4551e-05 FL  was 2.45361e-05
+[I] Injecting in layer 2 at index 113816 (148760)
+[I] Layer 2 contains 307200 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.00517974 FL  was 0.00516448
+[I] Injecting in layer 12 at index 9903142 (49990054)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.000354317 FL  was 0.000354317
+[I] Injecting in layer 10 at index 14391742 (16725822)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.000963678 FL  was 0.00096177
+[I] Injecting in layer 10 at index 30985356 (33319436)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -1.02184e-12 FL  was -0.00438876
+[I] Injecting in layer 10 at index 36369257 (38703337)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00458032 FL  was -0.00445825
+[I] Injecting in layer 12 at index 14064993 (54151905)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.000819406 FL  was 0.000575265
+[I] Injecting in layer 10 at index 4674290 (7008370)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 2.92502e+36 FL  was 0.00859586
+[I] Injecting in layer 14 at index 1399506 (58267730)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.0148234 FL  was -0.0148234
+[I] Injecting in layer 10 at index 33998521 (36332601)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.0023203 FL  was -0.00232078
+[I] Injecting in layer 10 at index 22833970 (25168050)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.0020646 FL  was 0.000516151
+[I] Injecting in layer 10 at index 5560559 (7894639)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.00291811 FL  was 0.00292193
+[I] Injecting in layer 10 at index 20053291 (22387371)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.0013763 FL  was 0.00137633
+[I] Injecting in layer 10 at index 25786930 (28121010)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00585868 FL  was 0.00585868
+[I] Injecting in layer 12 at index 399390 (40486302)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00561809 FL  was 0.00561806
+[I] Injecting in layer 10 at index 12404658 (14738738)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.0154681 FL  was 0.013515
+[I] Injecting in layer 10 at index 9936979 (12271059)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.14109e-08 FL  was 0.000747826
+[I] Injecting in layer 10 at index 11255349 (13589429)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00344688 FL  was 0.0034774
+[I] Injecting in layer 10 at index 1437629 (3771709)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 4.78049e-08 FL  was 0.00313294
+[I] Injecting in layer 10 at index 37601696 (39935776)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.011022 FL  was -0.011022
+[I] Injecting in layer 10 at index 25968759 (28302839)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.165065 FL  was -0.0103166
+[I] Injecting in layer 10 at index 11304644 (13638724)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00198124 FL  was -0.00198124
+[I] Injecting in layer 10 at index 20015504 (22349584)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.000413059 FL  was 0.000413536
+[I] Injecting in layer 12 at index 16555022 (56641934)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.540987 FL  was -0.00211323
+[I] Injecting in layer 10 at index 15416249 (17750329)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00126136 FL  was -0.000630679
+[I] Injecting in layer 12 at index 6822277 (46909189)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.01329 FL  was 0.01329
+[I] Injecting in layer 10 at index 26256304 (28590384)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00977411 FL  was -0.00782099
+[I] Injecting in layer 8 at index 52825 (1944281)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00476627 FL  was 0.00452213
+[I] Injecting in layer 10 at index 10844125 (13178205)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00221693 FL  was -0.00221692
+[I] Injecting in layer 10 at index 5421341 (7755421)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00392032 FL  was -0.00392127
+[I] Injecting in layer 10 at index 21238489 (23572569)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000625188 FL  was -0.00250075
+[I] Injecting in layer 12 at index 12949833 (53036745)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -9.6342e-13 FL  was -0.00413786
+[I] Injecting in layer 10 at index 21346771 (23680851)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00621943 FL  was -0.0062194
+[I] Injecting in layer 10 at index 34805437 (37139517)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00466293 FL  was -0.00469344
+[I] Injecting in layer 10 at index 6240505 (8574585)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.0034225 FL  was 0.00342441
+[I] Injecting in layer 10 at index 34808010 (37142090)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00644297 FL  was 0.00161074
+[I] Injecting in layer 10 at index 17749071 (20083151)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00265793 FL  was 0.0026579
+[I] Injecting in layer 10 at index 28631248 (30965328)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.000862028 FL  was 0.00172406
+[I] Injecting in layer 10 at index 8128605 (10462685)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.00421859 FL  was 0.00617172
+[I] Injecting in layer 12 at index 8297105 (48384017)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.000796397 FL  was -0.000796393
+[I] Injecting in layer 10 at index 28915654 (31249734)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00286615 FL  was -0.0057323
+[I] Injecting in layer 12 at index 3642865 (43729777)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.79446e+36 FL  was -0.00527343
+[I] Injecting in layer 4 at index 422572 (764972)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -7.18578e-05 FL  was -0.0183956
+[I] Injecting in layer 10 at index 33817761 (36151841)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00259396 FL  was -0.00259384
+[I] Injecting in layer 10 at index 32302845 (34636925)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00660875 FL  was -0.00660881
+[I] Injecting in layer 12 at index 13819965 (53906877)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00594482 FL  was 0.00594479
+[I] Injecting in layer 12 at index 12613703 (52700615)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00608321 FL  was -0.00413009
+[I] Injecting in layer 10 at index 30753818 (33087898)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00213434 FL  was -0.00219538
+[I] Injecting in layer 10 at index 8202844 (10536924)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.000809832 FL  was -0.000811739
+[I] Injecting in layer 10 at index 26833914 (29167994)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.03218e-23 FL  was -0.000190403
+[I] Injecting in layer 14 at index 2067645 (58935869)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00742729 FL  was -0.00645073
+[I] Injecting in layer 10 at index 26253237 (28587317)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00891599 FL  was -0.00891601
+[I] Injecting in layer 12 at index 16038764 (56125676)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00545719 FL  was -0.00546101
+[I] Injecting in layer 12 at index 6698811 (46785723)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00200292 FL  was -0.0019724
+[I] Injecting in layer 14 at index 1924843 (58793067)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00178633 FL  was 0.00178681
+[I] Injecting in layer 12 at index 13612040 (53698952)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.000533552 FL  was -0.000525922
+[I] Injecting in layer 12 at index 1043971 (41130883)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00864381 FL  was 0.00864381
+[I] Injecting in layer 10 at index 11917583 (14251663)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00236254 FL  was -0.00235491
+[I] Injecting in layer 12 at index 948228 (41035140)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00156464 FL  was 0.00156464
+[I] Injecting in layer 12 at index 2051313 (42138225)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.00026002 FL  was 0.00416031
+[I] Injecting in layer 10 at index 3609848 (5943928)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.00138331 FL  was 0.0013814
+[I] Injecting in layer 10 at index 9617032 (11951112)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00224973 FL  was -0.00224976
+[I] Injecting in layer 10 at index 37621772 (39955852)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00168009 FL  was 0.00168009
+[I] Injecting in layer 14 at index 3491753 (60359977)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00148477 FL  was -0.00148477
+[I] Injecting in layer 10 at index 24565506 (26899586)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.37864e-07 FL  was 0.00903505
+[I] Injecting in layer 12 at index 2115757 (42202669)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.00295785 FL  was 0.00295022
+[I] Injecting in layer 10 at index 17872720 (20206800)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00720655 FL  was 0.00708448
+[I] Injecting in layer 10 at index 26889139 (29223219)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00268951 FL  was 0.00269046
+[I] Injecting in layer 12 at index 1888879 (41975791)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.0056844 FL  was -0.00567677
+[I] Injecting in layer 12 at index 14467086 (54553998)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.0083686 FL  was -0.0083686
+[I] Injecting in layer 10 at index 19512538 (21846618)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00787273 FL  was -0.011779
+[I] Injecting in layer 12 at index 15093492 (55180404)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -5.26608e+36 FL  was -0.0154756
+[I] Injecting in layer 12 at index 2561895 (42648807)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.00414522 FL  was 0.00414523
+[I] Injecting in layer 10 at index 14172437 (16506517)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00739613 FL  was 0.00764027
+[I] Injecting in layer 10 at index 15433844 (17767924)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00129673 FL  was -0.00129674
+[I] Injecting in layer 10 at index 35091485 (37425565)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00355166 FL  was -0.00355261
+[I] Injecting in layer 12 at index 12535284 (52622196)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.000871695 FL  was -0.000872172
+[I] Injecting in layer 12 at index 14867867 (54954779)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00558585 FL  was 0.00139646
+[I] Injecting in layer 10 at index 3714767 (6048847)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.000554682 FL  was 0.00055492
+[I] Injecting in layer 12 at index 14617072 (54703984)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00184476 FL  was 0.00184476
+[I] Injecting in layer 10 at index 5912168 (8246248)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.000458996 FL  was -0.00039796
+[I] Injecting in layer 12 at index 4030944 (44117856)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00779757 FL  was -0.00194939
+[I] Injecting in layer 10 at index 29731303 (32065383)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00591804 FL  was -0.00591803
+[I] Injecting in layer 10 at index 27785413 (30119493)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00173963 FL  was 0.00173962
+[I] Injecting in layer 10 at index 11384681 (13718761)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00171147 FL  was -0.00171147
+[I] Injecting in layer 12 at index 12792673 (52879585)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00781723 FL  was 0.00781341
+[I] Injecting in layer 10 at index 27559489 (29893569)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -3.20797e-22 FL  was -0.00591766
+[I] Injecting in layer 14 at index 572234 (57440458)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00845461 FL  was 0.00851565
+[I] Injecting in layer 10 at index 12125104 (14459184)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00370029 FL  was 0.00740058
+[I] Injecting in layer 10 at index 31961796 (34295876)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00131253 FL  was 0.00131253
+[I] Injecting in layer 12 at index 4137966 (44224878)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00251628 FL  was -0.0025468
+[I] Injecting in layer 12 at index 2151241 (42238153)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.0088528 FL  was 0.00909694
+[I] Injecting in layer 10 at index 16696390 (19030470)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00814706 FL  was -0.00814703
+[I] Injecting in layer 12 at index 13706955 (53793867)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00158413 FL  was -0.00158318
+[I] Injecting in layer 8 at index 318945 (2210401)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00112042 FL  was -0.00112041
+[I] Injecting in layer 12 at index 4240031 (44326943)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000321681 FL  was -0.0051469
+[I] Injecting in layer 10 at index 6473945 (8808025)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.000959536 FL  was -0.000959536
+[I] Injecting in layer 10 at index 22874810 (25208890)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00137128 FL  was 0.00137128
+[I] Injecting in layer 10 at index 10119731 (12453811)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.000940276 FL  was 0.00188055
+[I] Injecting in layer 12 at index 13862447 (53949359)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.01498 FL  was 0.0140034
+[I] Injecting in layer 10 at index 35600146 (37934226)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.000221713 FL  was -0.000222666
+[I] Injecting in layer 10 at index 32002256 (34336336)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00170598 FL  was -0.00164495
+[I] Injecting in layer 12 at index 11769149 (51856061)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00128545 FL  was -0.00128533
+[I] Injecting in layer 10 at index 2404835 (4738915)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00256508 FL  was 0.00256699
+[I] Injecting in layer 10 at index 27758434 (30092514)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00424757 FL  was -0.00424763
+[I] Injecting in layer 10 at index 21542242 (23876322)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00025924 FL  was 0.00025924
+[I] Injecting in layer 10 at index 6354504 (8688584)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00249154 FL  was -0.00249155
+[I] Injecting in layer 10 at index 33199130 (35533210)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.00697576 FL  was 0.00502263
+[I] Injecting in layer 10 at index 11641265 (13975345)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 1.04755e-23 FL  was 0.000193239
+[I] Injecting in layer 10 at index 36763484 (39097564)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.250371 FL  was 0.00097801
+[I] Injecting in layer 6 at index 929 (1228449)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.0307045 FL  was -0.0297279
+[I] Injecting in layer 14 at index 3337780 (60206004)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.384987 FL  was 0.00150386
+[I] Injecting in layer 10 at index 20203162 (22537242)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00525147 FL  was 0.0052515
+[I] Injecting in layer 10 at index 34874994 (37209074)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0143602 FL  was -0.012407
+[I] Injecting in layer 12 at index 12289525 (52376437)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.000791771 FL  was -0.000791771
+[I] Injecting in layer 12 at index 7375906 (47462818)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.00666398 FL  was 0.00333199
+[I] Injecting in layer 12 at index 8568401 (48655313)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.00486166 FL  was 0.00486118
+[I] Injecting in layer 10 at index 6472314 (8806394)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -9.90219e+35 FL  was -0.00290999
+[I] Injecting in layer 10 at index 21909805 (24243885)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00232346 FL  was -0.00232536
+[I] Injecting in layer 10 at index 28861284 (31195364)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00509126 FL  was -0.00254563
+[I] Injecting in layer 10 at index 9143597 (11477677)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -6.7504e+35 FL  was -0.00198376
+[I] Injecting in layer 12 at index 13900847 (53987759)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00171598 FL  was 0.00171503
+[I] Injecting in layer 10 at index 30485242 (32819322)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.000972308 FL  was -0.000972278
+[I] Injecting in layer 10 at index 31850428 (34184508)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00671943 FL  was -0.00671848
+[I] Injecting in layer 12 at index 3129879 (43216791)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00782922 FL  was -0.00782946
+[I] Injecting in layer 10 at index 33244718 (35578798)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00142074 FL  was -0.00142077
+[I] Injecting in layer 12 at index 14552019 (54638931)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 1.44442 FL  was 0.00564226
+[I] Injecting in layer 12 at index 693994 (40780906)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00214349 FL  was -0.00214158
+[I] Injecting in layer 10 at index 29533552 (31867632)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -2.79993e-13 FL  was -0.00120256
+[I] Injecting in layer 10 at index 35167115 (37501195)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -4.30857e-22 FL  was -0.00794791
+[I] Injecting in layer 10 at index 17482270 (19816350)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0023909 FL  was -0.00238899
+[I] Injecting in layer 10 at index 22888588 (25222668)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00218383 FL  was -0.00219146
+[I] Injecting in layer 10 at index 1396215 (3730295)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 9.98095e+35 FL  was 0.00293314
+[I] Injecting in layer 10 at index 17316894 (19650974)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00968166 FL  was -0.00967785
+[I] Injecting in layer 10 at index 4137867 (6471947)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -4.28016e-05 FL  was -0.0109572
+[I] Injecting in layer 10 at index 5310467 (7644547)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.00514932 FL  was 0.00514932
+[I] Injecting in layer 10 at index 15217104 (17551184)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -3.41366e-05 FL  was -0.00873898
+[I] Injecting in layer 10 at index 8380190 (10714270)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.61765e-08 FL  was 0.00106014
+[I] Injecting in layer 10 at index 13187940 (15522020)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00380792 FL  was 0.00386896
+[I] Injecting in layer 10 at index 6464254 (8798334)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00448259 FL  was 0.00448354
+[I] Injecting in layer 10 at index 13779122 (16113202)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.0014319 FL  was 0.00143238
+[I] Injecting in layer 10 at index 26183939 (28518019)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.000457604 FL  was 0.000396569
+[I] Injecting in layer 12 at index 11708182 (51795094)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00688546 FL  was 0.0059089
+[I] Injecting in layer 10 at index 23663778 (25997858)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00168461 FL  was 0.00168461
+[I] Injecting in layer 14 at index 2053841 (58922065)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00230164 FL  was -0.00230163
+[I] Injecting in layer 10 at index 29941459 (32275539)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.000494852 FL  was 0.000492945
+[I] Injecting in layer 12 at index 6308506 (46395418)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00360535 FL  was -0.00721071
+[I] Injecting in layer 10 at index 9244743 (11578823)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00345172 FL  was -0.00345148
+[I] Injecting in layer 10 at index 826349 (3160429)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.000942219 FL  was 0.000941742
+[I] Injecting in layer 10 at index 14800590 (17134670)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00148682 FL  was -0.00148682
+[I] Injecting in layer 10 at index 5076023 (7410103)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.942828 FL  was 0.00368292
+[I] Injecting in layer 2 at index 145441 (180385)
+[I] Layer 2 contains 307200 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.0848229 FL  was 0.0848229
+[I] Injecting in layer 10 at index 23112220 (25446300)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00563285 FL  was -0.00561759
+[I] Injecting in layer 12 at index 7843266 (47930178)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.0401274 FL  was -0.0100319
+[I] Injecting in layer 10 at index 26057737 (28391817)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.011784 FL  was -0.011784
+[I] Injecting in layer 10 at index 22707019 (25041099)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -7.93014e-08 FL  was -0.0051971
+[I] Injecting in layer 10 at index 10404725 (12738805)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.0027123 FL  was -0.00368886
+[I] Injecting in layer 12 at index 14205016 (54291928)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.0055614 FL  was -0.00507312
+[I] Injecting in layer 12 at index 8105099 (48192011)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.000290427 FL  was 0.000275168
+[I] Injecting in layer 10 at index 10231290 (12565370)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 8.0158e-23 FL  was 0.00147865
+[I] Injecting in layer 12 at index 1634280 (41721192)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 1.7571e+36 FL  was 0.00516366
+[I] Injecting in layer 12 at index 10134324 (50221236)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.0116873 FL  was -0.0116854
+[I] Injecting in layer 10 at index 25339005 (27673085)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00337471 FL  was -0.00337423
+[I] Injecting in layer 10 at index 13977797 (16311877)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00319863 FL  was 0.00319911
+[I] Injecting in layer 10 at index 16029744 (18363824)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.000968784 FL  was -0.000968903
+[I] Injecting in layer 10 at index 10730196 (13064276)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00345662 FL  was -0.00345662
+[I] Injecting in layer 12 at index 4438045 (44524957)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.000695946 FL  was -0.000695469
+[I] Injecting in layer 10 at index 20999519 (23333599)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -1.01682 FL  was -0.00397196
+[I] Injecting in layer 14 at index 834701 (57702925)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.313466 FL  was -0.0195916
+[I] Injecting in layer 10 at index 33939466 (36273546)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 3.2963e+35 FL  was 0.000968696
+[I] Injecting in layer 12 at index 13239346 (53326258)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.000239291 FL  was -0.000178256
+[I] Injecting in layer 12 at index 2146010 (42232922)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.000297749 FL  was 0.000297742
+[I] Injecting in layer 12 at index 120820 (40207732)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00632957 FL  was -0.00633005
+[I] Injecting in layer 12 at index 15846020 (55932932)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00311301 FL  was -0.000778252
+[I] Injecting in layer 10 at index 25148493 (27482573)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00231263 FL  was -0.00328919
+[I] Injecting in layer 12 at index 6094845 (46181757)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.00109419 FL  was 0.00158247
+[I] Injecting in layer 10 at index 36339100 (38673180)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.000737995 FL  was -0.000737995
+[I] Injecting in layer 10 at index 19355041 (21689121)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.000616378 FL  was -0.000616319
+[I] Injecting in layer 10 at index 20237717 (22571797)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00258525 FL  was -0.00356182
+[I] Injecting in layer 10 at index 6478861 (8812941)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00519179 FL  was -0.00519177
+[I] Injecting in layer 14 at index 878513 (57746737)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.0064308 FL  was 0.0064308
+[I] Injecting in layer 12 at index 12921829 (53008741)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00486214 FL  was -0.00486208
+[I] Injecting in layer 10 at index 5386182 (7720262)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.000662572 FL  was 0.000662571
+[I] Injecting in layer 10 at index 20576809 (22910889)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.0028579 FL  was 0.00285742
+[I] Injecting in layer 10 at index 9640781 (11974861)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00361466 FL  was 0.00349259
+[I] Injecting in layer 12 at index 9363370 (49450282)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000663716 FL  was -0.00265486
+[I] Injecting in layer 12 at index 5746137 (45833049)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.0067004 FL  was 0.0067004
+[I] Injecting in layer 12 at index 16613240 (56700152)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.00446795 FL  was 0.00642108
+[I] Injecting in layer 12 at index 12489886 (52576798)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -1.99175e-12 FL  was -0.0085545
+[I] Injecting in layer 10 at index 9073574 (11407654)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00131423 FL  was -0.0013147
+[I] Injecting in layer 12 at index 5413218 (45500130)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00850445 FL  was -0.00850444
+[I] Injecting in layer 10 at index 11297802 (13631882)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.000549544 FL  was 0.000549551
+[I] Injecting in layer 10 at index 16027068 (18361148)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00418467 FL  was -0.00418467
+[I] Injecting in layer 10 at index 12554241 (14888321)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 5.44152e-05 FL  was 5.48921e-05
+[I] Injecting in layer 14 at index 2752969 (59621193)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00675694 FL  was 0.00675691
+[I] Injecting in layer 12 at index 14380039 (54466951)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -1.30397 FL  was -0.00509365
+[I] Injecting in layer 10 at index 15842783 (18176863)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 9.14359e-13 FL  was 0.00392714
+[I] Injecting in layer 10 at index 7008257 (9342337)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00180205 FL  was 0.00155791
+[I] Injecting in layer 10 at index 32151888 (34485968)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.000565851 FL  was -0.000565851
+[I] Injecting in layer 10 at index 619393 (2953473)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 3.41748e-22 FL  was 0.00630413
+[I] Injecting in layer 10 at index 14437550 (16771630)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.000808282 FL  was -0.000808401
+[I] Injecting in layer 10 at index 34761837 (37095917)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00398381 FL  was 0.00398381
+[I] Injecting in layer 10 at index 6121623 (8455703)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00059637 FL  was 0.00071844
+[I] Injecting in layer 12 at index 6490901 (46577813)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 2.44979e-22 FL  was 0.00451907
+[I] Injecting in layer 10 at index 7498593 (9832673)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00885807 FL  was -0.00885806
+[I] Injecting in layer 10 at index 16827345 (19161425)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00165113 FL  was -0.00165113
+[I] Injecting in layer 12 at index 821934 (40908846)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00450343 FL  was 0.00450438
+[I] Injecting in layer 12 at index 11052363 (51139275)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00955901 FL  was -0.0095571
+[I] Injecting in layer 12 at index 625782 (40712694)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -9.37303e-13 FL  was -0.00402569
+[I] Injecting in layer 10 at index 9502020 (11836100)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00144194 FL  was -0.00144195
+[I] Injecting in layer 6 at index 134498 (1362018)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00693678 FL  was 0.00718092
+[I] Injecting in layer 12 at index 14582034 (54668946)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00351963 FL  was -0.00351975
+[I] Injecting in layer 10 at index 22112599 (24446679)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.00144701 FL  was 0.00144701
+[I] Injecting in layer 10 at index 15700310 (18034390)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00333112 FL  was -0.00333875
+[I] Injecting in layer 10 at index 19264398 (21598478)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.000303983 FL  was 0.000303983
+[I] Injecting in layer 10 at index 28393365 (30727445)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 1.90603e-12 FL  was 0.00818633
+[I] Injecting in layer 12 at index 5903090 (45990002)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00188059 FL  was -0.00188059
+[I] Injecting in layer 10 at index 10273867 (12607947)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000351623 FL  was -0.00562596
+[I] Injecting in layer 10 at index 23654096 (25988176)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.0051158 FL  was -0.00505476
+[I] Injecting in layer 12 at index 14426071 (54512983)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.010642 FL  was 0.0106415
+[I] Injecting in layer 12 at index 2418284 (42505196)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.000239461 FL  was -0.000239461
+[I] Injecting in layer 12 at index 9964317 (50051229)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 5.22553e-08 FL  was 0.0034246
+[I] Injecting in layer 10 at index 2065988 (4400068)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00144617 FL  was 0.00578468
+[I] Injecting in layer 10 at index 4718702 (7052782)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 1.90953 FL  was 0.0074591
+[I] Injecting in layer 10 at index 15551956 (17886036)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00392254 FL  was 0.00392254
+[I] Injecting in layer 14 at index 211586 (57079810)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.0040419 FL  was 0.00599502
+[I] Injecting in layer 14 at index 922094 (57790318)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.0190396 FL  was 0.0190396
+[I] Injecting in layer 10 at index 9051239 (11385319)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00101297 FL  was 0.00101297
+[I] Injecting in layer 12 at index 13742679 (53829591)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -2.01866e+36 FL  was -0.0059323
+[I] Injecting in layer 10 at index 3204309 (5538389)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.000751567 FL  was 0.000752044
+[I] Injecting in layer 10 at index 6971069 (9305149)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00264259 FL  was 0.00264259
+[I] Injecting in layer 10 at index 23097257 (25431337)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00366686 FL  was 0.0036668
+[I] Injecting in layer 10 at index 13388276 (15722356)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00185675 FL  was 0.00185676
+[I] Injecting in layer 12 at index 8688721 (48775633)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -5.98414e-13 FL  was -0.00257017
+[I] Injecting in layer 12 at index 16035710 (56122622)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.0051109 FL  was 0.00127773
+[I] Injecting in layer 12 at index 10042854 (50129766)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.00633373 FL  was 0.00633421
+[I] Injecting in layer 10 at index 11596073 (13930153)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00528551 FL  was 0.00504137
+[I] Injecting in layer 10 at index 30375717 (32709797)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00353967 FL  was -0.00353967
+[I] Injecting in layer 12 at index 11952524 (52039436)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00460251 FL  was -0.00460347
+[I] Injecting in layer 12 at index 9655263 (49742175)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.0014254 FL  was -0.0014254
+[I] Injecting in layer 10 at index 28915766 (31249846)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00501606 FL  was -0.00501606
+[I] Injecting in layer 4 at index 464287 (806687)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.0274973 FL  was -0.0274972
+[I] Injecting in layer 10 at index 33340989 (35675069)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.00344831 FL  was 0.00247175
+[I] Injecting in layer 10 at index 33311825 (35645905)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.0040205 FL  was 0.00401668
+[I] Injecting in layer 4 at index 166892 (509292)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 4.67694e+35 FL  was 0.00137443
+[I] Injecting in layer 8 at index 8402 (1899858)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.0179853 FL  was 0.0184736
+[I] Injecting in layer 12 at index 9961600 (50048512)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00840145 FL  was -0.00840144
+[I] Injecting in layer 10 at index 1810290 (4144370)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00714165 FL  was 0.00714167
+[I] Injecting in layer 10 at index 35634785 (37968865)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -2.11231e-08 FL  was -0.00138432
+[I] Injecting in layer 10 at index 30481289 (32815369)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00366571 FL  was -0.00366571
+[I] Injecting in layer 12 at index 14054060 (54140972)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00309254 FL  was 0.00309257
+[I] Injecting in layer 14 at index 219825 (57088049)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.0195689 FL  was 0.0195841
+[I] Injecting in layer 10 at index 31459987 (33794067)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00375447 FL  was -0.0037621
+[I] Injecting in layer 10 at index 9401234 (11735314)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00273088 FL  was -0.00273085
+[I] Injecting in layer 12 at index 14807482 (54894394)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.0090348 FL  was 0.00915687
+[I] Injecting in layer 10 at index 4092831 (6426911)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00352086 FL  was 0.00352092
+[I] Injecting in layer 12 at index 6282115 (46369027)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.59155e+36 FL  was -0.00467715
+[I] Injecting in layer 10 at index 37219068 (39553148)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00616246 FL  was -0.00154061
+[I] Injecting in layer 10 at index 36954325 (39288405)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.000371429 FL  was -0.000249358
+[I] Injecting in layer 10 at index 19882613 (22216693)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.000938999 FL  was 0.000938969
+[I] Injecting in layer 10 at index 11981620 (14315700)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00193834 FL  was -0.00193834
+[I] Injecting in layer 10 at index 33577251 (35911331)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00239374 FL  was -0.00288202
+[I] Injecting in layer 10 at index 35412860 (37746940)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00118307 FL  was -0.00142721
+[I] Injecting in layer 12 at index 15382138 (55469050)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.0018618 FL  was 0.00186276
+[I] Injecting in layer 12 at index 11786369 (51873281)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -8.79485e-08 FL  was -0.00576379
+[I] Injecting in layer 10 at index 31841956 (34176036)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00628508 FL  was -0.0062851
+[I] Injecting in layer 10 at index 19563411 (21897491)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.00258009 FL  was 0.00209181
+[I] Injecting in layer 10 at index 36120042 (38454122)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.53811e+35 FL  was -0.000452009
+[I] Injecting in layer 10 at index 29395788 (31729868)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.000898956 FL  was -0.000898955
+[I] Injecting in layer 10 at index 37123333 (39457413)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00266993 FL  was -0.00266993
+[I] Injecting in layer 10 at index 34666813 (37000893)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00336294 FL  was -0.0033639
+[I] Injecting in layer 10 at index 21102359 (23436439)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.0017374 FL  was 0.00173737
+[I] Injecting in layer 10 at index 9681419 (12015499)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -3.80785e-06 FL  was -3.56943e-06
+[I] Injecting in layer 10 at index 27448681 (29782761)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.000902625 FL  was -0.000902624
+[I] Injecting in layer 12 at index 9734890 (49821802)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.000102734 FL  was 0.000102735
+[I] Injecting in layer 10 at index 400681 (2734761)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 1.29517e+36 FL  was 0.00380616
+[I] Injecting in layer 12 at index 8627478 (48714390)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00817085 FL  was -0.00817088
+[I] Injecting in layer 12 at index 13748771 (53835683)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.000253358 FL  was 0.000253328
+[I] Injecting in layer 12 at index 11213266 (51300178)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00128895 FL  was 0.001288
+[I] Injecting in layer 10 at index 24211799 (26545879)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00755165 FL  was 0.00755261
+[I] Injecting in layer 4 at index 650273 (992673)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.0003665 FL  was -0.0003665
+[I] Injecting in layer 10 at index 23957960 (26292040)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00853622 FL  was -0.00853241
+[I] Injecting in layer 12 at index 9831441 (49918353)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00274945 FL  was -0.00274945
+[I] Injecting in layer 10 at index 35145218 (37479298)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.29763e-22 FL  was -0.0023937
+[I] Injecting in layer 10 at index 24234678 (26568758)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00295296 FL  was -0.00294533
+[I] Injecting in layer 10 at index 30307148 (32641228)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -1.2075e-13 FL  was -0.000518617
+[I] Injecting in layer 12 at index 8068091 (48155003)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.00183895 FL  was 0.00183895
+[I] Injecting in layer 10 at index 8974236 (11308316)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.000518418 FL  was 0.000518415
+[I] Injecting in layer 12 at index 4314312 (44401224)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00460931 FL  was -0.0046093
+[I] Injecting in layer 10 at index 34474294 (36808374)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00181527 FL  was -0.00181527
+[I] Injecting in layer 10 at index 2389612 (4723692)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00611108 FL  was 0.0061416
+[I] Injecting in layer 10 at index 20395192 (22729272)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.000660732 FL  was 0.000645473
+[I] Injecting in layer 10 at index 1189117 (3523197)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.0030012 FL  was 0.00324534
+[I] Injecting in layer 10 at index 1934077 (4268157)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00309313 FL  was -0.0030855
+[I] Injecting in layer 12 at index 10151521 (50238433)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.000289891 FL  was -0.000259373
+[I] Injecting in layer 10 at index 33732307 (36066387)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.00257167 FL  was 0.00257191
+[I] Injecting in layer 10 at index 835032 (3169112)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00142371 FL  was -0.00142347
+[I] Injecting in layer 10 at index 30684766 (33018846)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00155983 FL  was 0.00157509
+[I] Injecting in layer 10 at index 22702862 (25036942)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.000421983 FL  was 0.000421983
+[I] Injecting in layer 14 at index 3201430 (60069654)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.00491789 FL  was 0.00540617
+[I] Injecting in layer 10 at index 9469519 (11803599)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.000325948 FL  was 0.000326007
+[I] Injecting in layer 12 at index 14123216 (54210128)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.00189292 FL  was -0.00189268
+[I] Injecting in layer 10 at index 10823215 (13157295)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.000297031 FL  was -0.000358066
+[I] Injecting in layer 12 at index 5376161 (45463073)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00341553 FL  was 0.00341556
+[I] Injecting in layer 10 at index 29609410 (31943490)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00575529 FL  was 0.00143882
+[I] Injecting in layer 10 at index 13816209 (16150289)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD 0.00551056 FL  was 0.00551053
+[I] Injecting in layer 10 at index 31113664 (33447744)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00669227 FL  was -0.00669203
+[I] Injecting in layer 10 at index 13105153 (15439233)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 4.18318e-22 FL  was 0.00771661
+[I] Injecting in layer 10 at index 24743597 (27077677)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00311844 FL  was -0.00214187
+[I] Injecting in layer 10 at index 14794204 (17128284)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00329125 FL  was 0.00329125
+[I] Injecting in layer 10 at index 20785730 (23119810)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00340508 FL  was -0.00340505
+[I] Injecting in layer 12 at index 93465 (40180377)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00559413 FL  was 0.00559413
+[I] Injecting in layer 10 at index 24852179 (27186259)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00513804 FL  was -0.00513804
+[I] Injecting in layer 12 at index 11887859 (51974771)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00649672 FL  was 0.00649672
+[I] Injecting in layer 10 at index 5732032 (8066112)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00546798 FL  was -0.00546797
+[I] Injecting in layer 10 at index 26828789 (29162869)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00225507 FL  was 0.00223981
+[I] Injecting in layer 10 at index 5824749 (8158829)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00175846 FL  was -0.00175847
+[I] Injecting in layer 10 at index 2828203 (5162283)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 1.60368e-12 FL  was 0.00688774
+[I] Injecting in layer 14 at index 3656379 (60524603)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.0127242 FL  was -0.0127203
+[I] Injecting in layer 10 at index 15575339 (17909419)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00419106 FL  was -0.00516762
+[I] Injecting in layer 12 at index 4443052 (44529964)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.0020362 FL  was -0.00203525
+[I] Injecting in layer 12 at index 14382332 (54469244)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD 0.00278259 FL  was 0.00278164
+[I] Injecting in layer 12 at index 5450741 (45537653)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0116028 FL  was -0.00964964
+[I] Injecting in layer 12 at index 195705 (40282617)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00157881 FL  was -0.00151777
+[I] Injecting in layer 6 at index 21507 (1249027)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.0138282 FL  was 0.00992195
+[I] Injecting in layer 4 at index 256978 (599378)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0284319 FL  was -0.0245257
+[I] Injecting in layer 10 at index 33605461 (35939541)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -7.51822e-08 FL  was -0.00492714
+[I] Injecting in layer 10 at index 20922064 (23256144)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00506541 FL  was -0.00503489
+[I] Injecting in layer 10 at index 23278059 (25612139)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00331916 FL  was 0.00331964
+[I] Injecting in layer 10 at index 24648081 (26982161)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -9.76679e-13 FL  was -0.0041948
+[I] Injecting in layer 10 at index 2045589 (4379669)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00827141 FL  was -0.00827129
+[I] Injecting in layer 10 at index 37513076 (39847156)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -1.36499 FL  was -0.00533201
+[I] Injecting in layer 12 at index 11064277 (51151189)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.0104263 FL  was -0.0104264
+[I] Injecting in layer 10 at index 31520542 (33854622)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00397475 FL  was 0.00397487
+[I] Injecting in layer 10 at index 4933875 (7267955)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 8.65371e-05 FL  was 0.00138459
+[I] Injecting in layer 10 at index 5213325 (7547405)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.000827934 FL  was 0.00331174
+[I] Injecting in layer 10 at index 8823637 (11157717)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 5.11758e-05 FL  was 0.000818812
+[I] Injecting in layer 10 at index 5511100 (7845180)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 9.97144e-08 FL  was 0.00653488
+[I] Injecting in layer 12 at index 3471374 (43558286)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.00154524 FL  was 0.00154715
+[I] Injecting in layer 12 at index 856950 (40943862)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000468007 FL  was -0.00748812
+[I] Injecting in layer 10 at index 28538588 (30872668)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.00420892 FL  was -0.00420892
+[I] Injecting in layer 12 at index 1687623 (41774535)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00352528 FL  was -0.00352528
+[I] Injecting in layer 10 at index 5322883 (7656963)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00383921 FL  was -0.00383924
+[I] Injecting in layer 12 at index 1484258 (41571170)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD 0.000181235 FL  was 0.000362469
+[I] Injecting in layer 10 at index 15997066 (18331146)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00426041 FL  was -0.00426041
+[I] Injecting in layer 10 at index 37211659 (39545739)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.0104191 FL  was 0.0104191
+[I] Injecting in layer 12 at index 9945418 (50032330)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00655939 FL  was -0.00655939
+[I] Injecting in layer 10 at index 19214426 (21548506)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00548138 FL  was -0.00274069
+[I] Injecting in layer 10 at index 33701414 (36035494)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00491419 FL  was -0.00497523
+[I] Injecting in layer 10 at index 13928751 (16262831)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000185396 FL  was 0.00296633
+[I] Injecting in layer 10 at index 30167058 (32501138)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -5.84028e-22 FL  was -0.0107734
+[I] Injecting in layer 10 at index 31802065 (34136145)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00268355 FL  was 0.00266829
+[I] Injecting in layer 10 at index 8826774 (11160854)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.00205458 FL  was -0.00303114
+[I] Injecting in layer 10 at index 9653307 (11987387)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00421758 FL  was -0.00421759
+[I] Injecting in layer 10 at index 13109012 (15443092)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000207868 FL  was -0.00332588
+[I] Injecting in layer 10 at index 8825534 (11159614)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.000886796 FL  was 0.000886781
+[I] Injecting in layer 10 at index 17474377 (19808457)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00789045 FL  was 0.00789808
+[I] Injecting in layer 10 at index 36127857 (38461937)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00122928 FL  was -0.00135135
+[I] Injecting in layer 12 at index 3211884 (43298796)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.77481e-08 FL  was 0.00116314
+[I] Injecting in layer 12 at index 6946803 (47033715)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.0119379 FL  was 0.011938
+[I] Injecting in layer 10 at index 10621103 (12955183)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.7599e+36 FL  was -0.00517189
+[I] Injecting in layer 10 at index 7340647 (9674727)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00149787 FL  was -0.00149793
+[I] Injecting in layer 10 at index 28007013 (30341093)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00493507 FL  was -0.00493507
+[I] Injecting in layer 10 at index 12504889 (14838969)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00284856 FL  was -0.00284856
+[I] Injecting in layer 10 at index 9626250 (11960330)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.0150667 FL  was 0.0150667
+[I] Injecting in layer 12 at index 8627901 (48714813)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -5.14894e-22 FL  was -0.00949813
+[I] Injecting in layer 10 at index 25176341 (27510421)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -3.09384e-05 FL  was -3.08788e-05
+[I] Injecting in layer 14 at index 3850485 (60718709)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.0205389 FL  was 0.0224921
+[I] Injecting in layer 10 at index 34131364 (36465444)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00409167 FL  was 0.00102292
+[I] Injecting in layer 10 at index 2689497 (5023577)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.0017672 FL  was -0.00176717
+[I] Injecting in layer 12 at index 10884401 (50971313)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00453749 FL  was -0.00226875
+[I] Injecting in layer 10 at index 7523376 (9857456)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD 0.00338223 FL  was 0.00338247
+[I] Injecting in layer 12 at index 1628813 (41715725)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.140604 FL  was 0.000549236
+[I] Injecting in layer 10 at index 21245078 (23579158)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -1.84267e-06 FL  was -2.94827e-05
+[I] Injecting in layer 12 at index 13599557 (53686469)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.0105125 FL  was -0.0105115
+[I] Injecting in layer 10 at index 8679128 (11013208)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00511158 FL  was -0.00559986
+[I] Injecting in layer 10 at index 19226992 (21561072)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.0024277 FL  was 0.00242773
+[I] Injecting in layer 12 at index 1175414 (41262326)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00958805 FL  was -0.00958811
+[I] Injecting in layer 10 at index 22175473 (24509553)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00301038 FL  was -0.00301038
+[I] Injecting in layer 12 at index 3525809 (43612721)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 4.28224e-08 FL  was 0.00280641
+[I] Injecting in layer 14 at index 2933255 (59801479)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.02994 FL  was -0.0299399
+[I] Injecting in layer 10 at index 3931240 (6265320)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -2.63072e-22 FL  was -0.00485282
+[I] Injecting in layer 10 at index 23512349 (25846429)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -3.63654e-05 FL  was -3.63656e-05
+[I] Injecting in layer 10 at index 35282257 (37616337)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 4.58468e-05 FL  was 0.000733548
+[I] Injecting in layer 12 at index 11236373 (51323285)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.000281583 FL  was -0.000281613
+[I] Injecting in layer 10 at index 37220298 (39554378)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.00215021 FL  was 0.0021464
+[I] Injecting in layer 10 at index 29087409 (31421489)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00628042 FL  was 0.00615835
+[I] Injecting in layer 10 at index 35109032 (37443112)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00422511 FL  was -0.00422508
+[I] Injecting in layer 10 at index 7030308 (9364388)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00123498 FL  was -0.000617489
+[I] Injecting in layer 10 at index 20186400 (22520480)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00297561 FL  was 0.00297561
+[I] Injecting in layer 12 at index 3181393 (43268305)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD -0.000602116 FL  was -0.000602116
+[I] Injecting in layer 12 at index 1238758 (41325670)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.000593497 FL  was -0.000593526
+[I] Injecting in layer 10 at index 24485928 (26820008)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00164974 FL  was -0.00152767
+[I] Injecting in layer 10 at index 26030623 (28364703)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00263385 FL  was -0.00266437
+[I] Injecting in layer 12 at index 10235539 (50322451)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000176093 FL  was -0.00281748
+[I] Injecting in layer 10 at index 10799332 (13133412)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.000917924 FL  was -0.000948442
+[I] Injecting in layer 10 at index 26339623 (28673703)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00272013 FL  was 0.00272012
+[I] Injecting in layer 12 at index 8016856 (48103768)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00234076 FL  was -0.00209662
+[I] Injecting in layer 14 at index 2112922 (58981146)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.0103968 FL  was 0.0103968
+[I] Injecting in layer 12 at index 2079062 (42165974)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.007553 FL  was -0.00755288
+[I] Injecting in layer 12 at index 13607075 (53693987)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.0113419 FL  was 0.0112808
+[I] Injecting in layer 10 at index 13668470 (16002550)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00234622 FL  was -0.00234717
+[I] Injecting in layer 12 at index 2678434 (42765346)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.015199 FL  was -0.0152295
+[I] Injecting in layer 10 at index 6586547 (8920627)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.000625895 FL  was 0.000627803
+[I] Injecting in layer 10 at index 23767014 (26101094)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.000670245 FL  was -0.000639728
+[I] Injecting in layer 12 at index 427649 (40514561)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.000156111 FL  was 0.000156109
+[I] Injecting in layer 10 at index 35239099 (37573179)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00293343 FL  was -0.0029334
+[I] Injecting in layer 12 at index 5745024 (45831936)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -2.24125e-08 FL  was -0.00146882
+[I] Injecting in layer 10 at index 12762084 (15096164)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.0106837 FL  was 0.0106837
+[I] Injecting in layer 10 at index 25021828 (27355908)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.0047599 FL  was -0.00474464
+[I] Injecting in layer 10 at index 8208729 (10542809)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD 0.000342438 FL  was 0.005479
+[I] Injecting in layer 10 at index 10175594 (12509674)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.000583409 FL  was 0.00233363
+[I] Injecting in layer 10 at index 30152358 (32486438)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00566996 FL  was -0.00579203
+[I] Injecting in layer 10 at index 3035725 (5369805)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00977695 FL  was -0.00977671
+[I] Injecting in layer 14 at index 1098483 (57966707)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 6.0002e-08 FL  was 0.00393229
+[I] Injecting in layer 10 at index 2841456 (5175536)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.87568e+36 FL  was -0.00551212
+[I] Injecting in layer 12 at index 14503187 (54590099)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00844294 FL  was 0.00844306
+[I] Injecting in layer 12 at index 7357195 (47444107)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00858446 FL  was -0.00857683
+[I] Injecting in layer 12 at index 7135222 (47222134)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 1.45549e+36 FL  was 0.00427729
+[I] Injecting in layer 10 at index 11519844 (13853924)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 6.83341e-13 FL  was 0.00293493
+[I] Injecting in layer 14 at index 3536001 (60404225)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00370152 FL  was 0.00370342
+[I] Injecting in layer 12 at index 14238875 (54325787)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.0111409 FL  was -0.0111409
+[I] Injecting in layer 12 at index 7754965 (47841877)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.0146012 FL  was -0.0141129
+[I] Injecting in layer 10 at index 10704448 (13038528)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00122254 FL  was -0.0012378
+[I] Injecting in layer 12 at index 12337003 (52423915)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00295297 FL  was -0.00295393
+[I] Injecting in layer 10 at index 37655736 (39989816)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.00601015 FL  was -0.00600824
+[I] Injecting in layer 10 at index 37447253 (39781333)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.00156734 FL  was 0.00156734
+[I] Injecting in layer 10 at index 25183125 (27517205)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00646023 FL  was -0.00646022
+[I] Injecting in layer 10 at index 36112821 (38446901)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00140594 FL  was -0.00143646
+[I] Injecting in layer 10 at index 25770020 (28104100)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD -0.00149444 FL  was -0.0014945
+[I] Injecting in layer 10 at index 3422677 (5756757)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -4.2302e-13 FL  was -0.00181685
+[I] Injecting in layer 14 at index 1874015 (58742239)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00115114 FL  was 0.00460454
+[I] Injecting in layer 10 at index 24722027 (27056107)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00978078 FL  was -0.0100249
+[I] Injecting in layer 10 at index 6036157 (8370237)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000272656 FL  was -0.00436249
+[I] Injecting in layer 10 at index 24585744 (26919824)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00520867 FL  was -0.00520867
+[I] Injecting in layer 10 at index 9636133 (11970213)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00668054 FL  was -0.00668054
+[I] Injecting in layer 12 at index 9104119 (49191031)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00389283 FL  was 0.000973207
+[I] Injecting in layer 12 at index 9583286 (49670198)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.0014215 FL  was 0.0014215
+[I] Injecting in layer 12 at index 4436364 (44523276)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00140682 FL  was -0.00140683
+[I] Injecting in layer 10 at index 22005613 (24339693)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.00205141 FL  was 0.00205141
+[I] Injecting in layer 10 at index 12402242 (14736322)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD 0.0260474 FL  was 0.0182349
+[I] Injecting in layer 10 at index 21948580 (24282660)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000753872 FL  was -0.00301549
+[I] Injecting in layer 12 at index 2076057 (42162969)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00363895 FL  was -0.00360843
+[I] Injecting in layer 12 at index 12032483 (52119395)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.00587338 FL  was -0.00586575
+[I] Injecting in layer 14 at index 417035 (57285259)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00696257 FL  was 0.00696263
+[I] Injecting in layer 10 at index 25357335 (27691415)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.00851472 FL  was 0.00845369
+[I] Injecting in layer 10 at index 22802212 (25136292)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00185138 FL  was -0.00185138
+[I] Injecting in layer 10 at index 32687952 (35022032)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.00789476 FL  was 0.00789488
+[I] Injecting in layer 14 at index 120521 (56988745)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.0105875 FL  was -0.0105799
+[I] Injecting in layer 12 at index 11717697 (51804609)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.0103597 FL  was 0.0103597
+[I] Injecting in layer 10 at index 35880735 (38214815)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.000797414 FL  was -0.000553273
+[I] Injecting in layer 10 at index 33267283 (35601363)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00343422 FL  was -0.00343422
+[I] Injecting in layer 10 at index 5806295 (8140375)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00661682 FL  was 0.00661706
+[I] Injecting in layer 6 at index 315563 (1543083)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 1.08589e-07 FL  was 0.00711648
+[I] Injecting in layer 14 at index 2745223 (59613447)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.00569646 FL  was -0.000356029
+[I] Injecting in layer 2 at index 243834 (278778)
+[I] Layer 2 contains 307200 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00405102 FL  was 0.00405102
+[I] Injecting in layer 6 at index 617927 (1845447)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.0159968 FL  was -0.0159967
+[I] Injecting in layer 12 at index 413674 (40500586)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD -0.00463426 FL  was -0.00463438
+[I] Injecting in layer 10 at index 32924799 (35258879)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.00593583 FL  was -0.00691239
+[I] Injecting in layer 10 at index 33917366 (36251446)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.962644 FL  was 0.00376033
+[I] Injecting in layer 10 at index 21177333 (23511413)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.000688233 FL  was 0.00068728
+[I] Injecting in layer 10 at index 17620818 (19954898)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.000242205 FL  was -0.000242205
+[I] Injecting in layer 4 at index 702053 (1044453)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00143695 FL  was -0.00140643
+[I] Injecting in layer 10 at index 10139184 (12473264)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 1.7392e+36 FL  was 0.00511105
+[I] Injecting in layer 10 at index 7668280 (10002360)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00523185 FL  was 0.00523161
+[I] Injecting in layer 10 at index 3976432 (6310512)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00706254 FL  was -0.0070778
+[I] Injecting in layer 10 at index 3788168 (6122248)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00558583 FL  was -0.00558582
+[I] Injecting in layer 14 at index 4088766 (60956990)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00366852 FL  was -0.00367615
+[I] Injecting in layer 10 at index 36482517 (38816597)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.0134765 FL  was -0.0132324
+[I] Injecting in layer 10 at index 37190578 (39524658)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD 3.75859e-22 FL  was 0.00693337
+[I] Injecting in layer 0 at index 16011 (16011)
+[I] Layer 0 contains 34848 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.0154638 FL  was -0.0154638
+[I] Injecting in layer 10 at index 34814479 (37148559)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -1.09562 FL  was -0.00427975
+[I] Injecting in layer 10 at index 34629179 (36963259)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.000356763 FL  was -0.00570821
+[I] Injecting in layer 10 at index 16134178 (18468258)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD 0.00336291 FL  was 0.00336291
+[I] Injecting in layer 10 at index 18602982 (20937062)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD 0.00542064 FL  was 0.00135516
+[I] Injecting in layer 10 at index 26800941 (29135021)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD -0.004796 FL  was -0.00479695
+[I] Injecting in layer 12 at index 3909622 (43996534)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00382409 FL  was -0.00382406
+[I] Injecting in layer 10 at index 2395260 (4729340)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -0.00395981 FL  was -0.00420395
+[I] Injecting in layer 8 at index 107746 (1999202)
+[I] Layer 8 contains 442368 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD 0.000813155 FL  was 0.000935225
+[I] Injecting in layer 10 at index 26074074 (28408154)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -0.0207697 FL  was -8.11315e-05
+[I] Injecting in layer 10 at index 4480366 (6814446)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.000890314 FL  was 0.000905572
+[I] Injecting in layer 12 at index 6431017 (46517929)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -1.86092e+35 FL  was -0.000546874
+[I] Injecting in layer 12 at index 9142014 (49228926)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00588022 FL  was -0.00147006
+[I] Injecting in layer 14 at index 3894701 (60762925)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD 0.0091973 FL  was 0.00919731
+[I] Injecting in layer 10 at index 18308850 (20642930)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00347591 FL  was -0.00695183
+[I] Injecting in layer 12 at index 10757401 (50844313)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0114175 FL  was -0.00946437
+[I] Injecting in layer 12 at index 11637268 (51724180)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.0063119 FL  was 0.0063119
+[I] Injecting in layer 12 at index 15997095 (56084007)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD 0.000198352 FL  was 0.00019835
+[I] Injecting in layer 10 at index 13975873 (16309953)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.000320359 FL  was 0.000316544
+[I] Injecting in layer 14 at index 1973705 (58841929)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 7
+[I] STD -0.00798218 FL  was -0.00798206
+[I] Injecting in layer 12 at index 14519025 (54605937)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 6
+[I] STD -0.00175554 FL  was -0.00175555
+[I] Injecting in layer 12 at index 14206963 (54293875)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.00669438 FL  was -0.00666387
+[I] Injecting in layer 12 at index 8613118 (48700030)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD -0.000321888 FL  was 0.000321888
+[I] Injecting in layer 10 at index 5678123 (8012203)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 8
+[I] STD 0.00644695 FL  was 0.00644707
+[I] Injecting in layer 12 at index 8737292 (48824204)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 21
+[I] STD -0.0101827 FL  was -0.00822956
+[I] Injecting in layer 10 at index 32965098 (35299178)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD -9.48134e-05 FL  was -9.86281e-05
+[I] Injecting in layer 12 at index 3650496 (43737408)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00143255 FL  was 0.00143279
+[I] Injecting in layer 12 at index 14787625 (54874537)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD -3.29596e+36 FL  was -0.00968596
+[I] Injecting in layer 10 at index 37625883 (39959963)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00240098 FL  was -0.00240098
+[I] Injecting in layer 10 at index 29345714 (31679794)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD 0.00527629 FL  was 0.00527247
+[I] Injecting in layer 10 at index 3293678 (5627758)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.0076381 FL  was 0.0076381
+[I] Injecting in layer 12 at index 13773306 (53860218)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD -0.00529478 FL  was -0.00517271
+[I] Injecting in layer 10 at index 32551643 (34885723)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00143509 FL  was 0.00145035
+[I] Injecting in layer 12 at index 3884817 (43971729)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 2.95655e-13 FL  was 0.00126983
+[I] Injecting in layer 12 at index 8778322 (48865234)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD -0.00420959 FL  was -0.00420959
+[I] Injecting in layer 2 at index 40908 (75852)
+[I] Layer 2 contains 307200 parameters
+[I] BIT FLIP AT POSITION 12
+[I] STD -0.0366552 FL  was -0.0366704
+[I] Injecting in layer 12 at index 15072441 (55159353)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.000707411 FL  was -0.00141482
+[I] Injecting in layer 10 at index 3143084 (5477164)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.015887 FL  was -0.00794352
+[I] Injecting in layer 10 at index 22692022 (25026102)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 31
+[I] STD 0.00554691 FL  was -0.00554691
+[I] Injecting in layer 12 at index 12404055 (52490967)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.00620079 FL  was 0.00619984
+[I] Injecting in layer 10 at index 6473221 (8807301)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.000473143 FL  was -0.000473143
+[I] Injecting in layer 12 at index 14736014 (54822926)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -6.4335e-22 FL  was -0.0118677
+[I] Injecting in layer 10 at index 31641917 (33975997)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.00505587 FL  was 0.00504061
+[I] Injecting in layer 14 at index 275979 (57144203)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD -0.0107642 FL  was -0.0108252
+[I] Injecting in layer 10 at index 12703558 (15037638)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 30
+[I] STD 3.02775e+36 FL  was 0.00889775
+[I] Injecting in layer 14 at index 3004598 (59872822)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.00124919 FL  was 0.0012492
+[I] Injecting in layer 12 at index 9330745 (49417657)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 0
+[I] STD 0.000471056 FL  was 0.000471056
+[I] Injecting in layer 12 at index 10528807 (50615719)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD 0.0120462 FL  was 0.0120462
+[I] Injecting in layer 10 at index 24746706 (27080786)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.0042953 FL  was 0.00435633
+[I] Injecting in layer 12 at index 7045305 (47132217)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD 0.00628436 FL  was 0.00677264
+[I] Injecting in layer 4 at index 462228 (804628)
+[I] Layer 4 contains 884736 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.0222492 FL  was -0.0222493
+[I] Injecting in layer 12 at index 3699024 (43785936)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 29
+[I] STD -1.31542e-22 FL  was -0.00242652
+[I] Injecting in layer 10 at index 10876876 (13210956)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD -2.78496e-13 FL  was -0.00119613
+[I] Injecting in layer 14 at index 887493 (57755717)
+[I] Layer 14 contains 4096000 parameters
+[I] BIT FLIP AT POSITION 19
+[I] STD 0.00945554 FL  was 0.00896726
+[I] Injecting in layer 10 at index 33016772 (35350852)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 20
+[I] STD -0.00340411 FL  was -0.00315997
+[I] Injecting in layer 10 at index 35087254 (37421334)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00107979 FL  was -0.00109505
+[I] Injecting in layer 6 at index 212830 (1440350)
+[I] Layer 6 contains 663552 parameters
+[I] BIT FLIP AT POSITION 28
+[I] STD 1.93839e-12 FL  was 0.00832534
+[I] Injecting in layer 10 at index 6001942 (8336022)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.00376322 FL  was 0.00376322
+[I] Injecting in layer 10 at index 3011163 (5345243)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.000719433 FL  was 0.000719462
+[I] Injecting in layer 10 at index 32352195 (34686275)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD 0.404892 FL  was 0.00158161
+[I] Injecting in layer 10 at index 16338887 (18672967)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD -0.00347228 FL  was -0.00344177
+[I] Injecting in layer 10 at index 25013391 (27347471)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.00195164 FL  was 0.00195158
+[I] Injecting in layer 10 at index 9361578 (11695658)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 22
+[I] STD -0.0134911 FL  was -0.00958485
+[I] Injecting in layer 10 at index 727862 (3061942)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 4
+[I] STD -0.00406385 FL  was -0.00406386
+[I] Injecting in layer 10 at index 20884495 (23218575)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.00300654 FL  was -0.00301417
+[I] Injecting in layer 10 at index 10320736 (12654816)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD 6.6622e-08 FL  was 0.00436614
+[I] Injecting in layer 12 at index 16212893 (56299805)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 25
+[I] STD -0.00728944 FL  was -0.00045559
+[I] Injecting in layer 10 at index 36550681 (38884761)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00333934 FL  was 0.00330882
+[I] Injecting in layer 10 at index 15002933 (17337013)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.000507826 FL  was 0.00050878
+[I] Injecting in layer 10 at index 30747708 (33081788)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 17
+[I] STD 0.00211489 FL  was 0.00208437
+[I] Injecting in layer 10 at index 7956602 (10290682)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 2
+[I] STD -0.00436588 FL  was -0.00436588
+[I] Injecting in layer 10 at index 6145098 (8479178)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.00153201 FL  was -0.00612805
+[I] Injecting in layer 10 at index 11081238 (13415318)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 16
+[I] STD 0.000538674 FL  was 0.00053486
+[I] Injecting in layer 10 at index 31112491 (33446571)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 10
+[I] STD -0.00446921 FL  was -0.00446968
+[I] Injecting in layer 10 at index 5295314 (7629394)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD -0.000791369 FL  was -0.000793276
+[I] Injecting in layer 10 at index 9407748 (11741828)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD -0.00228047 FL  was -0.00228047
+[I] Injecting in layer 10 at index 24726608 (27060688)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 3
+[I] STD 0.000237727 FL  was 0.000237727
+[I] Injecting in layer 10 at index 3692066 (6026146)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 18
+[I] STD 0.00207433 FL  was 0.0020133
+[I] Injecting in layer 10 at index 26351569 (28685649)
+[I] Layer 10 contains 37748736 parameters
+[I] BIT FLIP AT POSITION 24
+[I] STD -0.000541155 FL  was -0.00216462
+[I] Injection finished in 5807 µs.
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/ILSVRC2012_val_00033858.JPEG decoded in 4568 µs.

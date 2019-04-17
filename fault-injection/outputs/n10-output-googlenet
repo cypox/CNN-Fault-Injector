@@ -1,0 +1,46 @@
+[I] Finished parsing idx_cls file in 86592 µs.
+[I] Total network params 6998552
+[I] Network loaded in 700107 µs.
+[I] Injecting faults ...
+[I] Injecting in layer 114 at index 50135 (6023687)
+[I] Layer 114 contains 1024000 parameters
+[I] BIT FLIP AT POSITION 27
+[I] STD -6.25984e-07 FL  was -0.0410245
+[I] Injecting in layer 58 at index 113817 (1747329)
+[I] Layer 58 contains 294912 parameters
+[I] BIT FLIP AT POSITION 15
+[I] STD 0.0378484 FL  was 0.0379705
+[I] Injecting in layer 114 at index 788881 (6762433)
+[I] Layer 114 contains 1024000 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.00392311 FL  was -0.00196156
+[I] Injecting in layer 22 at index 73553 (427457)
+[I] Layer 22 contains 221184 parameters
+[I] BIT FLIP AT POSITION 23
+[I] STD -0.0181055 FL  was -0.00905274
+[I] Injecting in layer 70 at index 340366 (2483982)
+[I] Layer 70 contains 373248 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD 0.0288777 FL  was 0.0289082
+[I] Injecting in layer 70 at index 231788 (2375404)
+[I] Layer 70 contains 373248 parameters
+[I] BIT FLIP AT POSITION 1
+[I] STD 0.00616773 FL  was 0.00616773
+[I] Injecting in layer 104 at index 5969 (4855313)
+[I] Layer 104 contains 159744 parameters
+[I] BIT FLIP AT POSITION 11
+[I] STD 0.0447294 FL  was 0.044737
+[I] Injecting in layer 114 at index 200780 (6174332)
+[I] Layer 114 contains 1024000 parameters
+[I] BIT FLIP AT POSITION 9
+[I] STD 0.0114104 FL  was 0.01141
+[I] Injecting in layer 82 at index 87987 (2925715)
+[I] Layer 82 contains 460800 parameters
+[I] BIT FLIP AT POSITION 26
+[I] STD -3.54799e-05 FL  was -0.00908287
+[I] Injecting in layer 64 at index 15549 (1995005)
+[I] Layer 64 contains 32768 parameters
+[I] BIT FLIP AT POSITION 13
+[I] STD -0.00437431 FL  was -0.00437813
+[I] Injection finished in 71 µs.
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/ILSVRC2012_val_00033858.JPEG decoded in 4872 µs.

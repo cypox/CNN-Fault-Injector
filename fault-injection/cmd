@@ -1,0 +1,1 @@
+$NETWORKS/googlenet/googlenet_quantized_test.prototxt $NETWORKS/googlenet/googlenet_finetuned.caffemodel $NETWORKS/googlenet/googlenet'_parsed' $PARENT/testset/data

@@ -1,0 +1,80 @@
+[I] Testing on 10000 images
+[I] Finished parsing idx_cls file in 76605 µs.
+[I] Total network params 60965224
+[I] Network loaded in 1.15492e+06 µs.
+[I] Injecting faults ...
+[I] Injecting in layer 12 at index 3477556 (43564468)
+[I] Layer 12 contains 16777216 parameters
+[I] BIT FLIP AT POSITION 5
+[I] STD -0.00441217 FL  was -0.00441215
+[I] Injection finished in 13 µs.
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00033858.JPEG decoded in 4587 µs.
+[I] Precited: 774 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00033858.JPEG in 1.95099e+07 µs.
+[D] Predicted 774 with 0.199619 accuracy while it should be 38
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00037222.JPEG decoded in 3050 µs.
+[I] Precited: 812 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00037222.JPEG in 1.95629e+07 µs.
+[D] Predicted 812 with 0.446843 accuracy while it should be 908
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00010307.JPEG decoded in 4286 µs.
+[I] Precited: 692 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00010307.JPEG in 1.96171e+07 µs.
+[D] Predicted 692 with 0.0998042 accuracy while it should be 415
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00011145.JPEG decoded in 3254 µs.
+[I] Precited: 483 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00011145.JPEG in 1.94607e+07 µs.
+[D] Correct prediction with 0.621782 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00029079.JPEG decoded in 4446 µs.
+[I] Precited: 919 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00029079.JPEG in 1.94899e+07 µs.
+[D] Correct prediction with 0.683045 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00001091.JPEG decoded in 3958 µs.
+[I] Precited: 571 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00001091.JPEG in 1.96862e+07 µs.
+[D] Predicted 571 with 0.0881526 accuracy while it should be 778
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00009227.JPEG decoded in 2619 µs.
+[I] Precited: 954 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00009227.JPEG in 1.96831e+07 µs.
+[D] Correct prediction with 0.804237 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00018034.JPEG decoded in 4354 µs.
+[I] Precited: 53 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00018034.JPEG in 1.96923e+07 µs.
+[D] Correct prediction with 0.653406 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00028732.JPEG decoded in 8845 µs.
+[I] Precited: 400 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00028732.JPEG in 1.96766e+07 µs.
+[D] Predicted 400 with 0.824885 accuracy while it should be 667
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00025858.JPEG decoded in 2211 µs.
+[I] Precited: 977 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00025858.JPEG in 1.96795e+07 µs.
+[D] Predicted 977 with 0.33429 accuracy while it should be 751
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00040972.JPEG decoded in 1686 µs.
+[I] Precited: 289 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00040972.JPEG in 1.97057e+07 µs.
+[D] Correct prediction with 0.0991669 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00025776.JPEG decoded in 3531 µs.
+[I] Precited: 818 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00025776.JPEG in 1.97e+07 µs.
+[D] Predicted 818 with 0.215187 accuracy while it should be 819
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00012629.JPEG decoded in 3759 µs.
+[I] Precited: 316 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00012629.JPEG in 1.96852e+07 µs.
+[D] Correct prediction with 0.953147 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00028686.JPEG decoded in 3346 µs.
+[I] Precited: 751 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00028686.JPEG in 1.96701e+07 µs.
+[D] Predicted 751 with 0.320814 accuracy while it should be 675
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00021681.JPEG decoded in 4643 µs.
+[I] Precited: 580 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00021681.JPEG in 1.96681e+07 µs.
+[D] Correct prediction with 0.466512 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00034924.JPEG decoded in 4595 µs.
+[I] Precited: 535 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00034924.JPEG in 1.97202e+07 µs.
+[D] Correct prediction with 0.644329 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00023437.JPEG decoded in 4613 µs.
+[I] Precited: 249 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00023437.JPEG in 1.97031e+07 µs.
+[D] Predicted 249 with 0.47794 accuracy while it should be 250
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00038684.JPEG decoded in 5271 µs.
+[I] Precited: 355 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00038684.JPEG in 1.96972e+07 µs.
+[D] Correct prediction with 0.878244 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00042503.JPEG decoded in 3870 µs.
+[I] Precited: 407 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00042503.JPEG in 1.96817e+07 µs.
+[D] Correct prediction with 0.899638 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00031888.JPEG decoded in 1275 µs.
+[I] Precited: 681 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00031888.JPEG in 1.96722e+07 µs.
+[D] Predicted 681 with 0.174626 accuracy while it should be 446
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00028813.JPEG decoded in 10368 µs.
+[I] Precited: 63 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00028813.JPEG in 1.96915e+07 µs.
+[D] Correct prediction with 0.633908 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00012677.JPEG decoded in 3784 µs.
+[I] Precited: 312 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00012677.JPEG in 1.96747e+07 µs.
+[D] Correct prediction with 0.614714 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00025965.JPEG decoded in 3341 µs.
+[I] Precited: 448 for image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00025965.JPEG in 1.9695e+07 µs.
+[D] Correct prediction with 0.675901 accuracy
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/validation/ILSVRC2012_val_00029604.JPEG decoded in 3222 µs.

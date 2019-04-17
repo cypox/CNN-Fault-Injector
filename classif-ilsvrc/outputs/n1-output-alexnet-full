@@ -1,0 +1,7 @@
+[I] Finished parsing idx_cls file in 74046 µs.
+[I] Total network params 60965224
+[I] Network loaded in 1.42726e+06 µs.
+[I] Injecting faults ...
+[I] Injecting in layer 10 at index 1608990 (3943070)
+[I] Layer 10 contains 37748736 parameters
+[I] Layer 10 is represented as 16,7,8,7 (0.7) fp

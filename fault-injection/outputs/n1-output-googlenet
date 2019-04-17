@@ -1,0 +1,10 @@
+[I] Finished parsing idx_cls file in 111736 µs.
+[I] Total network params 6998552
+[I] Network loaded in 821103 µs.
+[I] Injecting faults ...
+[I] Injecting in layer 114 at index 660526 (6634078)
+[I] Layer 114 contains 1024000 parameters
+[I] BIT FLIP AT POSITION 14
+[I] STD -0.0137768 FL  was -0.0137921
+[I] Injection finished in 13 µs.
+[I] Image /media/aiembed/cf11bc1b-0f02-4383-ad36-da07690b0deb/ilsvrc/ILSVRC2012_val_00033858.JPEG decoded in 5580 µs.
